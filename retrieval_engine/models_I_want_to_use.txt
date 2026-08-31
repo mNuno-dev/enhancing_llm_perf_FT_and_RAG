@@ -1,0 +1,61 @@
+####                  ####
+####    Open Source
+####                  ####
+
+((((()))))
+TEI Supported
+((((()))))
+
+(multilingual)
+Qwen3/Qwen3-Embedding-8B (VERY BIG BE CAREFUL)
+Qwen3/Qwen3-Embedding-0.6B --> (BE CAREFULL -> USES 28GB MEMORY) Runs locally on mps (Mac)
+sentence-transformers/paraphrase-multilingual-mpnet-base-v2 ---> 278M 
+BAAI/bge-m3 ---> 568M [ollama]
+intfloat/multilingual-e5-large-instruct
+
+(english-only)
+nomic-ai/nomic-embed-text-v1.5 --> just because it's supposed to be good [also ollama]
+
+
+
+((((()))))
+Not TEI Supported
+((((()))))
+
+(Portuguese Sentence Encoders)
+-- // --
+(Regular Sentence Embedder)
+PORTULAN/serafim-100m-portuguese-pt-sentence-encoder
+PORTULAN/serafim-335m-portuguese-pt-sentence-encoder
+PORTULAN/serafim-900m-portuguese-pt-sentence-encoder
+(Information Retrieval trained)
+PORTULAN/serafim-100m-portuguese-pt-sentence-encoder-ir
+PORTULAN/serafim-335m-portuguese-pt-sentence-encoder-ir
+PORTULAN/serafim-900m-portuguese-pt-sentence-encoder-ir
+-- // --
+(Something else??)
+
+
+From the top Ranking at MTEB(Multilingual, v2) Leaderboard
+(Smaller Ones)
+intfloat/multilingual-e5-large-instruct ---> 560M (TEI)
+BAAI/bge-m3 ---> 568M [ollama] (TEI)
+sentence-transformers/paraphrase-multilingual-mpnet-base-v2 ---> 278M  (TEI)
+
+(Medium)
+(MIGHT WORK ON TEI -> But my PC cannot hangle this size)
+Alibaba-NLP/gte-Qwen2-1.5B-instruct ---> Not too large
+Qwen3/Qwen3-Embedding-4B ---> Also kinda large, but good to see the difference in computation time (time to response)
+
+(Very Big)
+(MIGHT WORK ON TEI -> But my PC cannot hangle this size)
+Salesforce/SFR-Embedding-Mistral ---> LARGE (7B) ---> slow
+
+
+
+
+####                  ####
+####    Black Box.    ####
+####                  ####
+gemini-embedding-001
+Cohere-embed-multilingual-light-v3.0

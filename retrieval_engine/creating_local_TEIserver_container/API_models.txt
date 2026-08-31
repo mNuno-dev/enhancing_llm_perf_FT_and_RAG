@@ -1,0 +1,16 @@
+#####                                                   #####
+#####  API embedding models that might be interesting   #####
+#####                                                   #####
+
+--> Jina embeddings
+
+(jina-embeddings-v3) -> 570M
+(jina-embeddings-v4) -> 3.8B
+site: https://jina.ai/
+
+
+--> Google embeddings
+
+
+
+---> OpenAI embeddings

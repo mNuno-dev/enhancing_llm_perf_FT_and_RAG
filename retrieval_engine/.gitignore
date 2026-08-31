@@ -1,0 +1,15 @@
+automation/
+.venv/
+.pytest_cache/
+.___pycache__/
+traditionalRAG/
+legacy/
+*.eeg-info/
+retrieval_evaluation/retrieval_eval_saves
+retrieval_evaluation/results/*
+mlruns/
+__pycache__/
+question_similarity/perguntas_com_conflitos_sim.txt
+question_similarity/perguntas_sem_conflitos_sim.txt
+retrieval_evaluation/old_RESULTS
+google_service_keys

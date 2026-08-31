@@ -1,0 +1,257 @@
+{
+    "title": "Incidente da Crowdstrike 2024",
+    "sections": [
+        {
+            "title": null,
+            "paragraphs": [
+                "Na sexta-feira, 19 de julho de 2024, sistemas de computador ao redor do mundo sofreram uma pane que levou a cont\u00ednuos problemas em v\u00e1rias ind\u00fastrias diferentes, relacionada a uma atualiza\u00e7\u00e3o defeituosa do software de seguran\u00e7a CrowdStrike para sistemas Microsoft Windows."
+            ]
+        },
+        {
+            "title": "Detalhes t\u00e9cnicos",
+            "paragraphs": [
+                "O incidente faz com que as m\u00e1quinas Windows recebam uma tela azul da morte com a mensagem: \u201cRecupera\u00e7\u00e3o: parece que o Windows n\u00e3o carregou corretamente\u201d. A empresa americana de seguran\u00e7a cibern\u00e9tica CrowdStrike admitiu a responsabilidade. A principal causa \u00e9 uma atualiza\u00e7\u00e3o de driver do software de seguran\u00e7a Falcon Sensor.",
+                "A solu\u00e7\u00e3o oficial \u00e9 excluir os arquivos %windir%\\System32\\drivers\\CrowdStrike\\C-00000291*.sys no modo de seguran\u00e7a. Requer aplica\u00e7\u00e3o manual.",
+                "\u00c0s 09h45 ( UTC ) uma corre\u00e7\u00e3o foi implantada, segundo o CEO."
+            ]
+        },
+        {
+            "title": "Impacto",
+            "paragraphs": [
+                "Houve interrup\u00e7\u00f5es em todo o mundo. Como muitos sistemas de TI em todo o mundo usam Windows e o software CrowdStrike, foram relatadas interrup\u00e7\u00f5es em muitos setores empresariais. Mais de 1 000 voos foram cancelados globalmente, pois o setor de viagens em geral foi amplamente afetado. Por algumas estimativas, o erro do CrowdStrike causou problemas a aproximadamente 24 000 clientes. O n\u00famero de computadores individuais afetados \u00e9 dif\u00edcil de determinar, pois muitos dos clientes s\u00e3o grandes organiza\u00e7\u00f5es. Em 2021, estimava-se que cerca de 47% das empresas na lista Fortune 500 eram clientes da CrowdStrike. Em seu pr\u00f3prio site, a CrowdStrike afirma que tem quase 60% das empresas da Fortune 500 e mais da metade das Fortune 1 000 entre seus clientes."
+            ]
+        },
+        {
+            "title": "Transporte a\u00e9reo",
+            "paragraphs": [
+                "Na Am\u00e9rica do Norte, um \"ground stop\" foi emitido pelas companhias United, Delta e American Airlines. Voos no ar continuar\u00e3o voando, mas novos voos n\u00e3o decolar\u00e3o. Allegiant Airlines tamb\u00e9m foram paralisadas pela interrup\u00e7\u00e3o, de acordo com a FAA.",
+                "A Swiss International Air Lines teve 30% dos voos paralisados. O Aeroporto de Praga na Rep\u00fablica Tcheca, o Aeroporto de Budapeste na Hungria e a Lufthansa na Alemanha enfrentaram problemas. A Ryanair relatou que a reserva e o check-in estavam indispon\u00edveis, e seus voos do Aeroporto de Bratislava na Eslov\u00e1quia foram afetados. Avi\u00f5es n\u00e3o foram autorizados a pousar no Aeroporto de Zurique. A Wizz Air culpou o incidente por seus servi\u00e7os online estarem offline. A companhia a\u00e9rea holandesa KLM suspendeu a maioria das opera\u00e7\u00f5es, anunciando que o manuseio de voos \u00e9 imposs\u00edvel com o problema. O Aeroporto de Berlim-Brandemburgo planejou parar os voos at\u00e9 \u00e0s 8 (UTC). Em Bruxelas, os funcion\u00e1rios do Aeroporto de Charleroi verificaram manualmente os passageiros, mas outros softwares aliviaram os problemas at\u00e9 \u00e0s 10:00 e houve atrasos m\u00ednimos. Aeroportos espanh\u00f3is foram interrompidos.",
+                "O Aeroporto Internacional de Hong Kong experimentou atrasos durante o check-in, principalmente para passageiros da companhia a\u00e9rea local de baixo custo Hong Kong Express, recorrendo a funcion\u00e1rios usando sinais manuscritos para direcionar os passageiros a diferentes balc\u00f5es de check-in. A Autoridade Aeroportu\u00e1ria de Hong Kong ativou a resposta de emerg\u00eancia, ap\u00f3s a falha dos sites das companhias a\u00e9reas e do check-in autom\u00e1tico. As companhias a\u00e9reas locais Cathay Pacific, Hong Kong Express e Hong Kong Airlines tiveram sistemas de reserva indispon\u00edveis.",
+                "A companhia a\u00e9rea coreana Jeju Air e Spring Japan est\u00e3o enfrentando problemas. A Jetstar Japan teve que cancelar v\u00e1rios voos. Alguns dos quiosques de autoatendimento no Aeroporto Changi de Singapura foram afetados, atrasando e for\u00e7ando as companhias a\u00e9reas a mudar para o check-in manual. Voos da Cebu Pacific e da Philippines AirAsia est\u00e3o atrasados. Longas filas se formaram no Aeroporto Internacional Ninoy Aquino."
+            ]
+        },
+        {
+            "title": "\u00c1frica",
+            "paragraphs": [
+                "Os bancos na \u00c1frica do Sul, incluindo o Capitec Bank, estavam enfrentando problemas. A Tun\u00edsia foi poupada da pane global, apesar de perturba\u00e7\u00f5es tempor\u00e1rias nos aeroportos."
+            ]
+        },
+        {
+            "title": "China",
+            "paragraphs": [
+                "Algumas empresas permitiram que seus funcion\u00e1rios sa\u00edssem mais cedo. O termo \"Thank you Microsoft for an early vacation\" momentaneamente se tornou o mais popular no Weibo."
+            ]
+        },
+        {
+            "title": "\u00cdndia",
+            "paragraphs": [
+                "Interrup\u00e7\u00f5es foram experimentadas pela Air India, Indigo Airlines, Akasa Air, SpiceJet e Vistara. Passes de embarque manuscritos foram emitidos durante a interrup\u00e7\u00e3o. O Minist\u00e9rio da Avia\u00e7\u00e3o Civil ordenou que as companhias a\u00e9reas e os aeroportos fossem compassivos ao fornecer alimentos e assentos, se necess\u00e1rio.",
+                "A partir das 18:14 (IST), mais de 200 voos foram cancelados, com a IndiGo sozinha cancelando 192 voos.",
+                "Grandes empresas de TI na \u00cdndia, como TCS, Infosys, Oracle, Nokia e muitas outras, tamb\u00e9m enfrentaram a interrup\u00e7\u00e3o, resultando em milhares de problemas relatados por funcion\u00e1rios e dispositivos presos em bootloop, sem conseguir se recuperar.",
+                "O Indian Computer Emergency Response Team, CERT-In, emitiu uma classifica\u00e7\u00e3o de severidade cr\u00edtica para o incidente.",
+                "A Maruti Suzuki, uma fabricante de autom\u00f3veis na \u00cdndia, relatou que sua produ\u00e7\u00e3o foi interrompida e imediatamente adotou medidas de precau\u00e7\u00e3o e remedia\u00e7\u00e3o. A empresa tamb\u00e9m informou que o problema foi resolvido.",
+                "No entanto, a NSE e a BSE disseram que n\u00e3o foram impactadas pela pane global dos sistemas da Microsoft, apesar dos relatos de interrup\u00e7\u00f5es. Por outro lado, o Ministro das Ferrovias, Informa\u00e7\u00e3o e Transmiss\u00e3o, Eletr\u00f4nicos e Tecnologia da Informa\u00e7\u00e3o da \u00cdndia, Ashwini Vaishnaw, afirmou que o governo estava em contato com a Microsoft e que a causa da interrup\u00e7\u00e3o foi identificada. O RBI (Banco da Reserva da \u00cdndia) disse em um comunicado que apenas alguns bancos usam ferramentas da CrowdStrike e que muitos sistemas cr\u00edticos da maioria dos bancos n\u00e3o operam na nuvem, portanto, n\u00e3o foram afetados. O State Bank of India, o maior banco da \u00cdndia, relatou que nenhum de seus servi\u00e7os foi afetado pela interrup\u00e7\u00e3o. De acordo com a avalia\u00e7\u00e3o do RBI, apenas 10 bancos e NBFCs tiveram interrup\u00e7\u00f5es menores que j\u00e1 foram resolvidas ou est\u00e3o sendo resolvidas. A institui\u00e7\u00e3o tamb\u00e9m afirmou que os sistemas banc\u00e1rios indianos s\u00e3o isolados contra tais interrup\u00e7\u00f5es e relataram apenas pequenas interrup\u00e7\u00f5es."
+            ]
+        },
+        {
+            "title": "Israel",
+            "paragraphs": [
+                "Em Israel, o Magen David Adom e sua linha de servi\u00e7os de emerg\u00eancia, assim como v\u00e1rios hospitais p\u00fablicos como o Sheba, Laniado e o Rambam, foram afetados. Outras organiza\u00e7\u00f5es afetadas incluem a Israel Post e v\u00e1rios bancos locais. Muitas empresas farmac\u00eauticas tamb\u00e9m foram impactadas."
+            ]
+        },
+        {
+            "title": "Jap\u00e3o",
+            "paragraphs": [
+                "Universal Studios Japan anunciou que n\u00e3o venderia ingressos nas bilheterias durante o fim de semana devido \u00e0 interrup\u00e7\u00e3o; no entanto, os ingressos ainda seriam vendidos online ou atrav\u00e9s de sites de venda de ingressos designados."
+            ]
+        },
+        {
+            "title": "Filipinas",
+            "paragraphs": [
+                "Trabalhadores de TI, grandes bancos, telecomunica\u00e7\u00f5es, transmiss\u00f5es de r\u00e1dio e TV foram afetados. Supermercados foram afetados devido \u00e0 falha nos sistemas de ponto de venda."
+            ]
+        },
+        {
+            "title": "Bancos nas Filipinas, como RCBC, Metrobank, LandBank, BDO, UnionBank, BPI e PNB, tiveram seus sistemas online fora do ar devido \u00e0 interrup\u00e7\u00e3o. E-wallets como Maya e GCash tamb\u00e9m relataram problemas.",
+            "paragraphs": [
+                "Sites do governo nas Filipinas, como o site da C\u00e2mara dos Representantes das Filipinas, ficaram fora do ar devido \u00e0 interrup\u00e7\u00e3o."
+            ]
+        },
+        {
+            "title": "Turquia",
+            "paragraphs": [
+                "A Turkish Airlines cancelou alguns de seus voos para evitar interrup\u00e7\u00f5es. O site e o aplicativo de banco m\u00f3vel do DenizBank n\u00e3o estavam acess\u00edveis."
+            ]
+        },
+        {
+            "title": "Outros",
+            "paragraphs": [
+                "O operador ferrovi\u00e1rio da Mal\u00e1sia, KTMB, confirmou que seu sistema de bilh\u00e9tica KITS estava enfrentando problemas t\u00e9cnicos.",
+                "Numerosas empresas de Singapura, incluindo Singapore Airlines, Scoot, Singapore Post, Singapore Exchange (SGX), SPH Media, Singtel, M1, Grab e DBS Bank, relataram v\u00e1rios n\u00edveis de dificuldades de servi\u00e7o ao longo do dia 19 de julho.",
+                "As cancelas de entrada e sa\u00edda de estacionamentos em Singapura foram afetadas em 185 locais geridos pelo Housing and Development Board (HDB)."
+            ]
+        },
+        {
+            "title": "Europa",
+            "paragraphs": [
+                "B\u00e9lgica",
+                "Na B\u00e9lgica, o problema afetou a compra de bilhetes de trem e an\u00fancios digitais nas esta\u00e7\u00f5es da Companhia Nacional de Ferrovias da B\u00e9lgica, os laptops de escrit\u00f3rio da DPG Media B\u00e9lgica \u2013 o que impacta as r\u00e1dios JOE e QMusic, bancos, servi\u00e7os postais, ag\u00eancias governamentais, comunica\u00e7\u00e3o telef\u00f4nica com os servi\u00e7os urbanos em Antu\u00e9rpia.",
+                "Um porta-voz da Companhia Nacional de Ferrovias da B\u00e9lgica disse que n\u00e3o h\u00e1 impacto no tr\u00e1fego real dos trens, mas sim em todas as aplica\u00e7\u00f5es digitais. Eles anteriormente aconselharam os passageiros a ouvirem os an\u00fancios de \u00e1udio nas v\u00e1rias esta\u00e7\u00f5es de trem, e, se n\u00e3o puderem comprar um bilhete, a entrarem em contato com o condutor do trem.",
+                "O Centro de Ciberseguran\u00e7a da B\u00e9lgica declarou que o impacto na B\u00e9lgica \u00e9 limitado.",
+                "A SPF Sa\u00fade P\u00fablica confirmou que dois hospitais foram impactados e ativaram seus planos de emerg\u00eancia de TI. Eles tamb\u00e9m afirmaram que n\u00e3o h\u00e1 impacto no atendimento, apenas nas novas admiss\u00f5es de pacientes.",
+                "O Centro Nacional de Crise estava avaliando o impacto na B\u00e9lgica e afirmou que n\u00e3o havia relatos de problemas significativos nos setores de seguran\u00e7a e em nossa infraestrutura cr\u00edtica (por exemplo, usinas de energia ou setor de transporte). Eles tamb\u00e9m foram informados sobre o problema que afetou dois hospitais na B\u00e9lgica."
+            ]
+        },
+        {
+            "title": "Fran\u00e7a",
+            "paragraphs": [
+                "V\u00e1rios canais de TV franceses afetados pelos problemas incluem TF1, TFX, LCI e as redes do Canal+ Group. O fornecedor de servi\u00e7os telef\u00f4nicos e de internet Bouygues Telecom tamb\u00e9m anunciou a indisponibilidade de seu servi\u00e7o ao cliente como resultado da interrup\u00e7\u00e3o. O Aeroporto Charles de Gaulle e o Aeroporto de Orly tamb\u00e9m enfrentaram problemas relacionados ao check-in e suspens\u00e3o de voos.",
+                "As opera\u00e7\u00f5es dos Jogos Ol\u00edmpicos de Ver\u00e3o de 2024, que est\u00e3o programadas para come\u00e7ar oficialmente em uma semana em Paris, Fran\u00e7a, tamb\u00e9m foram afetadas. O incidente ocorreu um dia ap\u00f3s a abertura da Vila Ol\u00edmpica, e os organizadores estavam processando a chegada de atletas e delegados. O comit\u00ea organizador disse que um plano de conting\u00eancia foi ativado e que apenas a entrega de uniformes e credenciais foi impactada. No entanto, o incidente est\u00e1 retardando as opera\u00e7\u00f5es, com a mesa de credenciamento no centro de imprensa fechada e verifica\u00e7\u00f5es de seguran\u00e7a feitas manualmente usando uma lista de nomes."
+            ]
+        },
+        {
+            "title": "Alemanha",
+            "paragraphs": [
+                "Dois hospitais em L\u00fcbeck e Kiel cancelaram opera\u00e7\u00f5es n\u00e3o emergenciais. A cadeia de supermercados Tegut fechou algumas de suas lojas. O Aeroporto de Berlim Brandemburgo anunciou que desde cerca de 7h00 (UTC+2), os processos operacionais foram afetados por \"problemas de TI em um fornecedor externo\". Enquanto o manuseio de passageiros continuou com algumas restri\u00e7\u00f5es, houve atrasos e alguns voos tiveram que ser cancelados pelas companhias a\u00e9reas."
+            ]
+        },
+        {
+            "title": "Irlanda",
+            "paragraphs": [
+                "The Irish Times relatou que v\u00e1rias empresas irlandesas foram impactadas, incluindo Ryanair. A Transport for Ireland disse que seus aplicativos estavam fora do ar devido \u00e0 interrup\u00e7\u00e3o. Clubes da GAA relataram que n\u00e3o conseguiram acessar ingressos para o All Ireland."
+            ]
+        },
+        {
+            "title": "Ilha de Man",
+            "paragraphs": [
+                "A Manx Radio relatou que os consult\u00f3rios de m\u00e9dicos foram impactados e que a interrup\u00e7\u00e3o de voos, especialmente para e do Reino Unido, era antecipada, mas atualmente m\u00ednima. Neg\u00f3cios foram relatados como \"principalmente n\u00e3o afetados\"."
+            ]
+        },
+        {
+            "title": "Pa\u00edses Baixos",
+            "paragraphs": [
+                "Neg\u00f3cios operando nos Pa\u00edses Baixos que est\u00e3o enfrentando problemas incluem o Aeroporto Schiphol, o Porto de Roterd\u00e3, e a emissora p\u00fablica NPO."
+            ]
+        },
+        {
+            "title": "Espanha",
+            "paragraphs": [
+                "ENAIRE, respons\u00e1vel pela gest\u00e3o nacional do controle de tr\u00e1fego a\u00e9reo, tamb\u00e9m fez refer\u00eancia a uma falha de TI em seu site e redes sociais. Todos os aeroportos espanh\u00f3is relataram interrup\u00e7\u00f5es e os governos regionais de Arag\u00e3o, Pa\u00eds Basco, Castela-Mancha, Catalunha e Gal\u00edcia relataram problemas com seus servi\u00e7os de sa\u00fade."
+            ]
+        },
+        {
+            "title": "Reino Unido",
+            "paragraphs": [
+                "Sky News n\u00e3o conseguiu transmitir ao vivo, assim como o CBBC, canal de televis\u00e3o infantil da BBC que \u00e9 de acesso livre.",
+                "V\u00e1rios aeroportos enfrentaram dificuldades, incluindo o Edimburgo, cujos pain\u00e9is de partida congelaram, e o Aeroporto de Gatwick, onde a leitura de c\u00f3digos de barras autom\u00e1ticos parou de funcionar e teve que ser feita manualmente.",
+                "As empresas ferrovi\u00e1rias tamb\u00e9m foram afetadas. O Servi\u00e7o Nacional de Sa\u00fade (NHS) afirmou que os problemas est\u00e3o \"causando interrup\u00e7\u00f5es na maioria das cl\u00ednicas de GP  inglesas\", com alguns de seus servi\u00e7os, como cl\u00ednicas de GP, que dependem de um software chamado EMIS Web, incapazes de visualizar e gerenciar registros m\u00e9dicos, emitir e gerenciar prescri\u00e7\u00f5es ou fazer agendamentos. A Bolsa de Valores de Londres, embora operando normalmente, n\u00e3o conseguiu atualizar as not\u00edcias em seu site.",
+                "A empresa de apostas Ladbrokes Coral e a rede de supermercados Morrisons tamb\u00e9m relataram problemas. A Amadeus, que gerencia a bagagem no Heathrow, afirmou que foi afetada pela falha de TI.",
+                "Os t\u00e1xis em Londres tamb\u00e9m foram afetados, pois os clientes n\u00e3o conseguiam pagar com cart\u00f5es de cr\u00e9dito ou d\u00e9bito e precisavam pagar em dinheiro.",
+                "Fontes de not\u00edcias no Reino Unido relataram que o comit\u00ea COBR do governo se reuniu para discutir o incidente."
+            ]
+        },
+        {
+            "title": "Outros",
+            "paragraphs": [
+                "O Sistema Central de Informa\u00e7\u00f5es de Sa\u00fade da Cro\u00e1cia  na Cro\u00e1cia foi afetado, embora tenha sido esclarecido que se tratava de um problema separado ligado \u00e0 mudan\u00e7a de seus servidores para um novo local assim como o Controle de Tr\u00e1fego A\u00e9reo Croata. O Hospital Professor Doutor Fernando Fonseca em Portugal registrou problemas. O porta-voz da Autoridade Nacional de Seguran\u00e7a confirmou que v\u00e1rias institui\u00e7\u00f5es na Eslov\u00e1quia foram afetadas. A empresa farmac\u00eautica Krka na Eslov\u00eania teria sofrido uma queda total de produ\u00e7\u00e3o e enviado seus funcion\u00e1rios para casa. Na Su\u00e9cia, o tr\u00e1fego a\u00e9reo foi interrompido, os ingressos para jogos de futebol e transporte p\u00fablico n\u00e3o puderam ser vendidos e a mina Malmberget foi evacuada como precau\u00e7\u00e3o. Vodafone, Nova Poshta e Sense Bank na Ucr\u00e2nia sofreram falhas devido \u00e0 atualiza\u00e7\u00e3o. Cadeias de farm\u00e1cias norueguesas Apotek1 tiveram que fechar suas lojas por algum tempo.",
+                "Mercedes AMG PETRONAS F1 Team tamb\u00e9m enfrentou problemas na sexta-feira do Grande Pr\u00eamio da Hungria, com um porta-voz da Mercedes confirmando que a equipe teve que resolver o problema manualmente em cada computador que usava. A falha tamb\u00e9m afetou seus clientes de motores, McLaren, Aston Martin e Williams."
+            ]
+        },
+        {
+            "title": "Canad\u00e1",
+            "paragraphs": [
+                "O Montreal-Trudeau International Airport e o Toronto Pearson International Airport foram afetados. O Vancouver International Airport tamb\u00e9m foi afetado, embora n\u00e3o estivesse claro se isso estava diretamente relacionado \u00e0s interrup\u00e7\u00f5es globais. A Canadian Broadcasting Corporation tamb\u00e9m foi impactada."
+            ]
+        },
+        {
+            "title": "Estados Unidos",
+            "paragraphs": [
+                "Houve interrup\u00e7\u00f5es nos servi\u00e7os de 911 ou problemas nas opera\u00e7\u00f5es dos centros de atendimento de 911 em algumas partes do Alasca, Arizona, Fl\u00f3rida, Indiana, Kansas, Michigan, Minnesota, Nova York, Ohio, e Pensilv\u00e2nia. O 911 estava fora de servi\u00e7o em todo o estado de New Hampshire. Al\u00e9m disso, o Alasca est\u00e1 enfrentando problemas com centros de chamadas n\u00e3o emergenciais.",
+                "As a\u00e7\u00f5es da Microsoft e da CrowdStrike ca\u00edram como resultado da interrup\u00e7\u00e3o. As a\u00e7\u00f5es da CrowdStrike ca\u00edram quase 12 por cento no pr\u00e9-mercado na manh\u00e3 de sexta-feira.",
+                "Muitos hospitais nos Estados Unidos pausaram cirurgias n\u00e3o urgentes. Embora permanecessem abertos, os hospitais tinham acesso limitado, se \u00e9 que tinham, aos registros dos pacientes.",
+                "O servi\u00e7o de Sim racing IRacing tamb\u00e9m foi afetado pela interrup\u00e7\u00e3o.",
+                "Brasil",
+                "V\u00e1rios aplicativos de bancos, assim como caixas eletr\u00f4nicos em ag\u00eancias presenciais, aeroportos e sistemas de operadoras de telefonia celular apresentaram picos de lentid\u00e3o e problemas em seus servi\u00e7os durante a madrugada e nas primeiras horas do dia. Al\u00e9m disso, parte dos sistemas ligados ao Supremo Tribunal Federal (STF) tamb\u00e9m foram afetados pela falha.",
+                "A Record foi uma das emissoras de televis\u00e3o afetadas pelo problema, chegando a n\u00e3o conseguir acesso ao sistema de transmiss\u00f5es (switcher), com o problema sendo percebido durante toda a programa\u00e7\u00e3o matinal, principalmente no telejornal Fala Brasil, que foi ao ar totalmente ao vivo, mas com falhas na gera\u00e7\u00e3o de caracteres, causando tamb\u00e9m a falta de conex\u00e3o com as emissoras afiliadas e filiais para exibi\u00e7\u00e3o de links nas ruas e a transmiss\u00e3o de reportagens gravadas, afetando tamb\u00e9m o Hoje em Dia.",
+                "Austr\u00e1lia",
+                "Empresas e ag\u00eancias governamentais australianas foram grandemente impactadas pelas interrup\u00e7\u00f5es, incluindo empresas de m\u00eddia, companhias a\u00e9reas, aeroportos, supermercados, hospitais, universidades, escrit\u00f3rios de advocacia, farm\u00e1cias, cassinos, redes de trem, postos de gasolina, est\u00e1dios e bancos. Empresas de m\u00eddia australianas afetadas pelos problemas incluem a ABC, SBS, Seven Network e Nine Network.",
+                "As companhias a\u00e9reas afetadas incluem Qantas, Virgin Australia e Jetstar. Um porta-voz do Sydney Airport disse que a interrup\u00e7\u00e3o afetou algumas opera\u00e7\u00f5es de companhias a\u00e9reas e que o aeroporto pode enfrentar alguns atrasos ao longo da noite. Em seu boletim de not\u00edcias, a Nine Network informou que o toque de recolher do Sydney Airport significava que n\u00e3o haveria tempo suficiente para eliminar o atraso antes das 23h e que pode levar v\u00e1rios dias para resolver o atraso. O Melbourne Airport tamb\u00e9m foi afetado, com declara\u00e7\u00f5es no site destacando o \"problema tecnol\u00f3gico global\" como impactante nos procedimentos de check-in, e aconselhando os passageiros a consultarem as companhias a\u00e9reas relevantes. Canberra Airport, Darwin Airport, Adelaide Airport, Perth Airport, Hobart Airport, Launceston Airport e Brisbane Airport tamb\u00e9m foram afetados.",
+                "Varejistas e redes de fast food tamb\u00e9m foram afetados pela interrup\u00e7\u00e3o, fazendo com que os sistemas de autoatendimento e pedidos online ficassem fora de servi\u00e7o. Postos de gasolina tamb\u00e9m foram afetados, com pessoas presas nas bombas de combust\u00edvel sem poder pagar pela gasolina porque os sistemas de pagamento n\u00e3o estavam funcionando.",
+                "Supermercados afetados incluem Woolworths e Coles, com a maioria das lojas sendo for\u00e7adas a encerrar as atividades do dia. Aplicativos banc\u00e1rios ficaram fora do ar, afetando bancos como NAB, Westpac, ANZ, Commonwealth Bank, Bendigo Bank e Suncorp. A operadora de trens de carga Aurizon foi afetada. Trens regionais em NSW nas linhas Hunter Line e Southern Highlands Line foram cancelados ou atrasados, com a rede de \u00f4nibus e trens regionais em Victoria, operada pela V/Line, tendo todas as linhas suspensas. Sistemas em alguns hospitais da Ramsay Health Care e da Uniting Care foram afetados, incluindo o Wesley Hospital e o St Andrews Hospital em Brisbane. O Sunshine Coast Council foi um dos v\u00e1rios conselhos afetados. A bilheteria no Docklands Stadium para a partida da Australian Football League de sexta-feira \u00e0 noite entre o Essendon Bombers e o Adelaide Crows foi afetada.",
+                "Os vitorianos foram aconselhados a ligar para 000 se um alarme de inc\u00eandio soar ou fuma\u00e7a for detectada, pois alguns alarmes autom\u00e1ticos em pr\u00e9dios podem n\u00e3o chamar automaticamente os servi\u00e7os de inc\u00eandio devido \u00e0 interrup\u00e7\u00e3o.",
+                "O governo australiano realizou uma reuni\u00e3o de emerg\u00eancia nacional para lidar com a interrup\u00e7\u00e3o. Foi declarado que o Mecanismo Nacional de Coordena\u00e7\u00e3o foi ativado, com o Primeiro-Ministro Anthony Albanese dizendo \"Entendo que os australianos est\u00e3o preocupados com a interrup\u00e7\u00e3o que est\u00e1 se desenrolando globalmente e afetando uma ampla gama de servi\u00e7os. Meu governo est\u00e1 trabalhando em estreita colabora\u00e7\u00e3o com o Coordenador Nacional de Seguran\u00e7a Cibern\u00e9tica\". Ele disse posteriormente: \"N\u00e3o h\u00e1 impacto na infraestrutura cr\u00edtica, servi\u00e7os governamentais ou servi\u00e7os Triple-0 at\u00e9 o momento. O Mecanismo Nacional de Coordena\u00e7\u00e3o foi ativado e est\u00e1 se reunindo agora\"."
+            ]
+        },
+        {
+            "title": "Nova Zel\u00e2ndia",
+            "paragraphs": [
+                "Empresas operando na Nova Zel\u00e2ndia enfrentando problemas incluem os bancos ANZ, ASB, Kiwibank e Westpac, os supermercados Woolworths e o cart\u00e3o de transporte HOP da Auckland Transport. O Christchurch Airport tamb\u00e9m est\u00e1 tendo problemas, assim como o Parlamento. Clientes tamb\u00e9m enfrentaram problemas de pagamento nos supermercados Foodstuffs."
+            ]
+        }
+    ],
+    "chunks": [
+        "Incidente da Crowdstrike 2024",
+        "Incidente da Crowdstrike 2024\nNa sexta-feira, 19 de julho de 2024, sistemas de computador ao redor do mundo sofreram uma pane que levou a cont\u00ednuos problemas em v\u00e1rias ind\u00fastrias diferentes, relacionada a uma atualiza\u00e7\u00e3o defeituosa do software de seguran\u00e7a CrowdStrike para sistemas Microsoft Windows.",
+        "Incidente da Crowdstrike 2024\nDetalhes t\u00e9cnicos\nO incidente faz com que as m\u00e1quinas Windows recebam uma tela azul da morte com a mensagem: \u201cRecupera\u00e7\u00e3o: parece que o Windows n\u00e3o carregou corretamente\u201d. A empresa americana de seguran\u00e7a cibern\u00e9tica CrowdStrike admitiu a responsabilidade. A principal causa \u00e9 uma atualiza\u00e7\u00e3o de driver do software de seguran\u00e7a Falcon Sensor.",
+        "Incidente da Crowdstrike 2024\nDetalhes t\u00e9cnicos\nA solu\u00e7\u00e3o oficial \u00e9 excluir os arquivos %windir%\\System32\\drivers\\CrowdStrike\\C-00000291*.sys no modo de seguran\u00e7a. Requer aplica\u00e7\u00e3o manual.",
+        "Incidente da Crowdstrike 2024\nDetalhes t\u00e9cnicos\n\u00c0s 09h45 ( UTC ) uma corre\u00e7\u00e3o foi implantada, segundo o CEO.",
+        "Incidente da Crowdstrike 2024\nImpacto\nHouve interrup\u00e7\u00f5es em todo o mundo. Como muitos sistemas de TI em todo o mundo usam Windows e o software CrowdStrike, foram relatadas interrup\u00e7\u00f5es em muitos setores empresariais. Mais de 1 000 voos foram cancelados globalmente, pois o setor de viagens em geral foi amplamente afetado. Por algumas estimativas, o erro do CrowdStrike causou problemas a aproximadamente 24 000 clientes. O n\u00famero de computadores individuais afetados \u00e9 dif\u00edcil de determinar, pois muitos dos clientes s\u00e3o grandes organiza\u00e7\u00f5es. Em 2021, estimava-se que cerca de 47% das empresas na lista Fortune 500 eram clientes da CrowdStrike. Em seu pr\u00f3prio site, a CrowdStrike afirma que tem quase 60% das empresas da Fortune 500 e mais da metade das Fortune 1 000 entre seus clientes.",
+        "Incidente da Crowdstrike 2024\nTransporte a\u00e9reo\nNa Am\u00e9rica do Norte, um \"ground stop\" foi emitido pelas companhias United, Delta e American Airlines. Voos no ar continuar\u00e3o voando, mas novos voos n\u00e3o decolar\u00e3o. Allegiant Airlines tamb\u00e9m foram paralisadas pela interrup\u00e7\u00e3o, de acordo com a FAA.",
+        "Incidente da Crowdstrike 2024\nTransporte a\u00e9reo\nA Swiss International Air Lines teve 30% dos voos paralisados. O Aeroporto de Praga na Rep\u00fablica Tcheca, o Aeroporto de Budapeste na Hungria e a Lufthansa na Alemanha enfrentaram problemas. A Ryanair relatou que a reserva e o check-in estavam indispon\u00edveis, e seus voos do Aeroporto de Bratislava na Eslov\u00e1quia foram afetados. Avi\u00f5es n\u00e3o foram autorizados a pousar no Aeroporto de Zurique. A Wizz Air culpou o incidente por seus servi\u00e7os online estarem offline. A companhia a\u00e9rea holandesa KLM suspendeu a maioria das opera\u00e7\u00f5es, anunciando que o manuseio de voos \u00e9 imposs\u00edvel com o problema. O Aeroporto de Berlim-Brandemburgo planejou parar os voos at\u00e9 \u00e0s 8 (UTC). Em Bruxelas, os funcion\u00e1rios do Aeroporto de Charleroi verificaram manualmente os passageiros, mas outros softwares aliviaram os problemas at\u00e9 \u00e0s 10:00 e houve atrasos m\u00ednimos. Aeroportos espanh\u00f3is foram interrompidos.",
+        "Incidente da Crowdstrike 2024\nTransporte a\u00e9reo\nO Aeroporto Internacional de Hong Kong experimentou atrasos durante o check-in, principalmente para passageiros da companhia a\u00e9rea local de baixo custo Hong Kong Express, recorrendo a funcion\u00e1rios usando sinais manuscritos para direcionar os passageiros a diferentes balc\u00f5es de check-in. A Autoridade Aeroportu\u00e1ria de Hong Kong ativou a resposta de emerg\u00eancia, ap\u00f3s a falha dos sites das companhias a\u00e9reas e do check-in autom\u00e1tico. As companhias a\u00e9reas locais Cathay Pacific, Hong Kong Express e Hong Kong Airlines tiveram sistemas de reserva indispon\u00edveis.",
+        "Incidente da Crowdstrike 2024\nTransporte a\u00e9reo\nA companhia a\u00e9rea coreana Jeju Air e Spring Japan est\u00e3o enfrentando problemas. A Jetstar Japan teve que cancelar v\u00e1rios voos. Alguns dos quiosques de autoatendimento no Aeroporto Changi de Singapura foram afetados, atrasando e for\u00e7ando as companhias a\u00e9reas a mudar para o check-in manual. Voos da Cebu Pacific e da Philippines AirAsia est\u00e3o atrasados. Longas filas se formaram no Aeroporto Internacional Ninoy Aquino.",
+        "Incidente da Crowdstrike 2024\n\u00c1frica\nOs bancos na \u00c1frica do Sul, incluindo o Capitec Bank, estavam enfrentando problemas. A Tun\u00edsia foi poupada da pane global, apesar de perturba\u00e7\u00f5es tempor\u00e1rias nos aeroportos.",
+        "Incidente da Crowdstrike 2024\nChina\nAlgumas empresas permitiram que seus funcion\u00e1rios sa\u00edssem mais cedo. O termo \"Thank you Microsoft for an early vacation\" momentaneamente se tornou o mais popular no Weibo.",
+        "Incidente da Crowdstrike 2024\n\u00cdndia\nInterrup\u00e7\u00f5es foram experimentadas pela Air India, Indigo Airlines, Akasa Air, SpiceJet e Vistara. Passes de embarque manuscritos foram emitidos durante a interrup\u00e7\u00e3o. O Minist\u00e9rio da Avia\u00e7\u00e3o Civil ordenou que as companhias a\u00e9reas e os aeroportos fossem compassivos ao fornecer alimentos e assentos, se necess\u00e1rio.",
+        "Incidente da Crowdstrike 2024\n\u00cdndia\nA partir das 18:14 (IST), mais de 200 voos foram cancelados, com a IndiGo sozinha cancelando 192 voos.",
+        "Incidente da Crowdstrike 2024\n\u00cdndia\nGrandes empresas de TI na \u00cdndia, como TCS, Infosys, Oracle, Nokia e muitas outras, tamb\u00e9m enfrentaram a interrup\u00e7\u00e3o, resultando em milhares de problemas relatados por funcion\u00e1rios e dispositivos presos em bootloop, sem conseguir se recuperar.",
+        "Incidente da Crowdstrike 2024\n\u00cdndia\nO Indian Computer Emergency Response Team, CERT-In, emitiu uma classifica\u00e7\u00e3o de severidade cr\u00edtica para o incidente.",
+        "Incidente da Crowdstrike 2024\n\u00cdndia\nA Maruti Suzuki, uma fabricante de autom\u00f3veis na \u00cdndia, relatou que sua produ\u00e7\u00e3o foi interrompida e imediatamente adotou medidas de precau\u00e7\u00e3o e remedia\u00e7\u00e3o. A empresa tamb\u00e9m informou que o problema foi resolvido.",
+        "Incidente da Crowdstrike 2024\n\u00cdndia\nNo entanto, a NSE e a BSE disseram que n\u00e3o foram impactadas pela pane global dos sistemas da Microsoft, apesar dos relatos de interrup\u00e7\u00f5es. Por outro lado, o Ministro das Ferrovias, Informa\u00e7\u00e3o e Transmiss\u00e3o, Eletr\u00f4nicos e Tecnologia da Informa\u00e7\u00e3o da \u00cdndia, Ashwini Vaishnaw, afirmou que o governo estava em contato com a Microsoft e que a causa da interrup\u00e7\u00e3o foi identificada. O RBI (Banco da Reserva da \u00cdndia) disse em um comunicado que apenas alguns bancos usam ferramentas da CrowdStrike e que muitos sistemas cr\u00edticos da maioria dos bancos n\u00e3o operam na nuvem, portanto, n\u00e3o foram afetados. O State Bank of India, o maior banco da \u00cdndia, relatou que nenhum de seus servi\u00e7os foi afetado pela interrup\u00e7\u00e3o. De acordo com a avalia\u00e7\u00e3o do RBI, apenas 10 bancos e NBFCs tiveram interrup\u00e7\u00f5es menores que j\u00e1 foram resolvidas ou est\u00e3o sendo resolvidas. A institui\u00e7\u00e3o tamb\u00e9m afirmou que os sistemas banc\u00e1rios indianos s\u00e3o isolados contra tais interrup\u00e7\u00f5es e relataram apenas pequenas interrup\u00e7\u00f5es.",
+        "Incidente da Crowdstrike 2024\nIsrael\nEm Israel, o Magen David Adom e sua linha de servi\u00e7os de emerg\u00eancia, assim como v\u00e1rios hospitais p\u00fablicos como o Sheba, Laniado e o Rambam, foram afetados. Outras organiza\u00e7\u00f5es afetadas incluem a Israel Post e v\u00e1rios bancos locais. Muitas empresas farmac\u00eauticas tamb\u00e9m foram impactadas.",
+        "Incidente da Crowdstrike 2024\nJap\u00e3o\nUniversal Studios Japan anunciou que n\u00e3o venderia ingressos nas bilheterias durante o fim de semana devido \u00e0 interrup\u00e7\u00e3o; no entanto, os ingressos ainda seriam vendidos online ou atrav\u00e9s de sites de venda de ingressos designados.",
+        "Incidente da Crowdstrike 2024\nFilipinas\nTrabalhadores de TI, grandes bancos, telecomunica\u00e7\u00f5es, transmiss\u00f5es de r\u00e1dio e TV foram afetados. Supermercados foram afetados devido \u00e0 falha nos sistemas de ponto de venda.",
+        "Incidente da Crowdstrike 2024\nBancos nas Filipinas, como RCBC, Metrobank, LandBank, BDO, UnionBank, BPI e PNB, tiveram seus sistemas online fora do ar devido \u00e0 interrup\u00e7\u00e3o. E-wallets como Maya e GCash tamb\u00e9m relataram problemas.\nSites do governo nas Filipinas, como o site da C\u00e2mara dos Representantes das Filipinas, ficaram fora do ar devido \u00e0 interrup\u00e7\u00e3o.",
+        "Incidente da Crowdstrike 2024\nTurquia\nA Turkish Airlines cancelou alguns de seus voos para evitar interrup\u00e7\u00f5es. O site e o aplicativo de banco m\u00f3vel do DenizBank n\u00e3o estavam acess\u00edveis.",
+        "Incidente da Crowdstrike 2024\nOutros\nO operador ferrovi\u00e1rio da Mal\u00e1sia, KTMB, confirmou que seu sistema de bilh\u00e9tica KITS estava enfrentando problemas t\u00e9cnicos.",
+        "Incidente da Crowdstrike 2024\nOutros\nNumerosas empresas de Singapura, incluindo Singapore Airlines, Scoot, Singapore Post, Singapore Exchange (SGX), SPH Media, Singtel, M1, Grab e DBS Bank, relataram v\u00e1rios n\u00edveis de dificuldades de servi\u00e7o ao longo do dia 19 de julho.",
+        "Incidente da Crowdstrike 2024\nOutros\nAs cancelas de entrada e sa\u00edda de estacionamentos em Singapura foram afetadas em 185 locais geridos pelo Housing and Development Board (HDB).",
+        "Incidente da Crowdstrike 2024\nEuropa\nB\u00e9lgica",
+        "Incidente da Crowdstrike 2024\nEuropa\nNa B\u00e9lgica, o problema afetou a compra de bilhetes de trem e an\u00fancios digitais nas esta\u00e7\u00f5es da Companhia Nacional de Ferrovias da B\u00e9lgica, os laptops de escrit\u00f3rio da DPG Media B\u00e9lgica \u2013 o que impacta as r\u00e1dios JOE e QMusic, bancos, servi\u00e7os postais, ag\u00eancias governamentais, comunica\u00e7\u00e3o telef\u00f4nica com os servi\u00e7os urbanos em Antu\u00e9rpia.",
+        "Incidente da Crowdstrike 2024\nEuropa\nUm porta-voz da Companhia Nacional de Ferrovias da B\u00e9lgica disse que n\u00e3o h\u00e1 impacto no tr\u00e1fego real dos trens, mas sim em todas as aplica\u00e7\u00f5es digitais. Eles anteriormente aconselharam os passageiros a ouvirem os an\u00fancios de \u00e1udio nas v\u00e1rias esta\u00e7\u00f5es de trem, e, se n\u00e3o puderem comprar um bilhete, a entrarem em contato com o condutor do trem.",
+        "Incidente da Crowdstrike 2024\nEuropa\nO Centro de Ciberseguran\u00e7a da B\u00e9lgica declarou que o impacto na B\u00e9lgica \u00e9 limitado.",
+        "Incidente da Crowdstrike 2024\nEuropa\nA SPF Sa\u00fade P\u00fablica confirmou que dois hospitais foram impactados e ativaram seus planos de emerg\u00eancia de TI. Eles tamb\u00e9m afirmaram que n\u00e3o h\u00e1 impacto no atendimento, apenas nas novas admiss\u00f5es de pacientes.",
+        "Incidente da Crowdstrike 2024\nEuropa\nO Centro Nacional de Crise estava avaliando o impacto na B\u00e9lgica e afirmou que n\u00e3o havia relatos de problemas significativos nos setores de seguran\u00e7a e em nossa infraestrutura cr\u00edtica (por exemplo, usinas de energia ou setor de transporte). Eles tamb\u00e9m foram informados sobre o problema que afetou dois hospitais na B\u00e9lgica.",
+        "Incidente da Crowdstrike 2024\nFran\u00e7a\nV\u00e1rios canais de TV franceses afetados pelos problemas incluem TF1, TFX, LCI e as redes do Canal+ Group. O fornecedor de servi\u00e7os telef\u00f4nicos e de internet Bouygues Telecom tamb\u00e9m anunciou a indisponibilidade de seu servi\u00e7o ao cliente como resultado da interrup\u00e7\u00e3o. O Aeroporto Charles de Gaulle e o Aeroporto de Orly tamb\u00e9m enfrentaram problemas relacionados ao check-in e suspens\u00e3o de voos.",
+        "Incidente da Crowdstrike 2024\nFran\u00e7a\nAs opera\u00e7\u00f5es dos Jogos Ol\u00edmpicos de Ver\u00e3o de 2024, que est\u00e3o programadas para come\u00e7ar oficialmente em uma semana em Paris, Fran\u00e7a, tamb\u00e9m foram afetadas. O incidente ocorreu um dia ap\u00f3s a abertura da Vila Ol\u00edmpica, e os organizadores estavam processando a chegada de atletas e delegados. O comit\u00ea organizador disse que um plano de conting\u00eancia foi ativado e que apenas a entrega de uniformes e credenciais foi impactada. No entanto, o incidente est\u00e1 retardando as opera\u00e7\u00f5es, com a mesa de credenciamento no centro de imprensa fechada e verifica\u00e7\u00f5es de seguran\u00e7a feitas manualmente usando uma lista de nomes.",
+        "Incidente da Crowdstrike 2024\nAlemanha\nDois hospitais em L\u00fcbeck e Kiel cancelaram opera\u00e7\u00f5es n\u00e3o emergenciais. A cadeia de supermercados Tegut fechou algumas de suas lojas. O Aeroporto de Berlim Brandemburgo anunciou que desde cerca de 7h00 (UTC+2), os processos operacionais foram afetados por \"problemas de TI em um fornecedor externo\". Enquanto o manuseio de passageiros continuou com algumas restri\u00e7\u00f5es, houve atrasos e alguns voos tiveram que ser cancelados pelas companhias a\u00e9reas.",
+        "Incidente da Crowdstrike 2024\nIrlanda\nThe Irish Times relatou que v\u00e1rias empresas irlandesas foram impactadas, incluindo Ryanair. A Transport for Ireland disse que seus aplicativos estavam fora do ar devido \u00e0 interrup\u00e7\u00e3o. Clubes da GAA relataram que n\u00e3o conseguiram acessar ingressos para o All Ireland.",
+        "Incidente da Crowdstrike 2024\nIlha de Man\nA Manx Radio relatou que os consult\u00f3rios de m\u00e9dicos foram impactados e que a interrup\u00e7\u00e3o de voos, especialmente para e do Reino Unido, era antecipada, mas atualmente m\u00ednima. Neg\u00f3cios foram relatados como \"principalmente n\u00e3o afetados\".",
+        "Incidente da Crowdstrike 2024\nPa\u00edses Baixos\nNeg\u00f3cios operando nos Pa\u00edses Baixos que est\u00e3o enfrentando problemas incluem o Aeroporto Schiphol, o Porto de Roterd\u00e3, e a emissora p\u00fablica NPO.",
+        "Incidente da Crowdstrike 2024\nEspanha\nENAIRE, respons\u00e1vel pela gest\u00e3o nacional do controle de tr\u00e1fego a\u00e9reo, tamb\u00e9m fez refer\u00eancia a uma falha de TI em seu site e redes sociais. Todos os aeroportos espanh\u00f3is relataram interrup\u00e7\u00f5es e os governos regionais de Arag\u00e3o, Pa\u00eds Basco, Castela-Mancha, Catalunha e Gal\u00edcia relataram problemas com seus servi\u00e7os de sa\u00fade.",
+        "Incidente da Crowdstrike 2024\nReino Unido\nSky News n\u00e3o conseguiu transmitir ao vivo, assim como o CBBC, canal de televis\u00e3o infantil da BBC que \u00e9 de acesso livre.",
+        "Incidente da Crowdstrike 2024\nReino Unido\nV\u00e1rios aeroportos enfrentaram dificuldades, incluindo o Edimburgo, cujos pain\u00e9is de partida congelaram, e o Aeroporto de Gatwick, onde a leitura de c\u00f3digos de barras autom\u00e1ticos parou de funcionar e teve que ser feita manualmente.",
+        "Incidente da Crowdstrike 2024\nReino Unido\nAs empresas ferrovi\u00e1rias tamb\u00e9m foram afetadas. O Servi\u00e7o Nacional de Sa\u00fade (NHS) afirmou que os problemas est\u00e3o \"causando interrup\u00e7\u00f5es na maioria das cl\u00ednicas de GP  inglesas\", com alguns de seus servi\u00e7os, como cl\u00ednicas de GP, que dependem de um software chamado EMIS Web, incapazes de visualizar e gerenciar registros m\u00e9dicos, emitir e gerenciar prescri\u00e7\u00f5es ou fazer agendamentos. A Bolsa de Valores de Londres, embora operando normalmente, n\u00e3o conseguiu atualizar as not\u00edcias em seu site.",
+        "Incidente da Crowdstrike 2024\nReino Unido\nA empresa de apostas Ladbrokes Coral e a rede de supermercados Morrisons tamb\u00e9m relataram problemas. A Amadeus, que gerencia a bagagem no Heathrow, afirmou que foi afetada pela falha de TI.",
+        "Incidente da Crowdstrike 2024\nReino Unido\nOs t\u00e1xis em Londres tamb\u00e9m foram afetados, pois os clientes n\u00e3o conseguiam pagar com cart\u00f5es de cr\u00e9dito ou d\u00e9bito e precisavam pagar em dinheiro.",
+        "Incidente da Crowdstrike 2024\nReino Unido\nFontes de not\u00edcias no Reino Unido relataram que o comit\u00ea COBR do governo se reuniu para discutir o incidente.",
+        "Incidente da Crowdstrike 2024\nOutros\nO Sistema Central de Informa\u00e7\u00f5es de Sa\u00fade da Cro\u00e1cia  na Cro\u00e1cia foi afetado, embora tenha sido esclarecido que se tratava de um problema separado ligado \u00e0 mudan\u00e7a de seus servidores para um novo local assim como o Controle de Tr\u00e1fego A\u00e9reo Croata. O Hospital Professor Doutor Fernando Fonseca em Portugal registrou problemas. O porta-voz da Autoridade Nacional de Seguran\u00e7a confirmou que v\u00e1rias institui\u00e7\u00f5es na Eslov\u00e1quia foram afetadas. A empresa farmac\u00eautica Krka na Eslov\u00eania teria sofrido uma queda total de produ\u00e7\u00e3o e enviado seus funcion\u00e1rios para casa. Na Su\u00e9cia, o tr\u00e1fego a\u00e9reo foi interrompido, os ingressos para jogos de futebol e transporte p\u00fablico n\u00e3o puderam ser vendidos e a mina Malmberget foi evacuada como precau\u00e7\u00e3o. Vodafone, Nova Poshta e Sense Bank na Ucr\u00e2nia sofreram falhas devido \u00e0 atualiza\u00e7\u00e3o. Cadeias de farm\u00e1cias norueguesas Apotek1 tiveram que fechar suas lojas por algum tempo.",
+        "Incidente da Crowdstrike 2024\nOutros\nMercedes AMG PETRONAS F1 Team tamb\u00e9m enfrentou problemas na sexta-feira do Grande Pr\u00eamio da Hungria, com um porta-voz da Mercedes confirmando que a equipe teve que resolver o problema manualmente em cada computador que usava. A falha tamb\u00e9m afetou seus clientes de motores, McLaren, Aston Martin e Williams.",
+        "Incidente da Crowdstrike 2024\nCanad\u00e1\nO Montreal-Trudeau International Airport e o Toronto Pearson International Airport foram afetados. O Vancouver International Airport tamb\u00e9m foi afetado, embora n\u00e3o estivesse claro se isso estava diretamente relacionado \u00e0s interrup\u00e7\u00f5es globais. A Canadian Broadcasting Corporation tamb\u00e9m foi impactada.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nHouve interrup\u00e7\u00f5es nos servi\u00e7os de 911 ou problemas nas opera\u00e7\u00f5es dos centros de atendimento de 911 em algumas partes do Alasca, Arizona, Fl\u00f3rida, Indiana, Kansas, Michigan, Minnesota, Nova York, Ohio, e Pensilv\u00e2nia. O 911 estava fora de servi\u00e7o em todo o estado de New Hampshire. Al\u00e9m disso, o Alasca est\u00e1 enfrentando problemas com centros de chamadas n\u00e3o emergenciais.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nAs a\u00e7\u00f5es da Microsoft e da CrowdStrike ca\u00edram como resultado da interrup\u00e7\u00e3o. As a\u00e7\u00f5es da CrowdStrike ca\u00edram quase 12 por cento no pr\u00e9-mercado na manh\u00e3 de sexta-feira.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nMuitos hospitais nos Estados Unidos pausaram cirurgias n\u00e3o urgentes. Embora permanecessem abertos, os hospitais tinham acesso limitado, se \u00e9 que tinham, aos registros dos pacientes.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nO servi\u00e7o de Sim racing IRacing tamb\u00e9m foi afetado pela interrup\u00e7\u00e3o.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nBrasil",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nV\u00e1rios aplicativos de bancos, assim como caixas eletr\u00f4nicos em ag\u00eancias presenciais, aeroportos e sistemas de operadoras de telefonia celular apresentaram picos de lentid\u00e3o e problemas em seus servi\u00e7os durante a madrugada e nas primeiras horas do dia. Al\u00e9m disso, parte dos sistemas ligados ao Supremo Tribunal Federal (STF) tamb\u00e9m foram afetados pela falha.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nA Record foi uma das emissoras de televis\u00e3o afetadas pelo problema, chegando a n\u00e3o conseguir acesso ao sistema de transmiss\u00f5es (switcher), com o problema sendo percebido durante toda a programa\u00e7\u00e3o matinal, principalmente no telejornal Fala Brasil, que foi ao ar totalmente ao vivo, mas com falhas na gera\u00e7\u00e3o de caracteres, causando tamb\u00e9m a falta de conex\u00e3o com as emissoras afiliadas e filiais para exibi\u00e7\u00e3o de links nas ruas e a transmiss\u00e3o de reportagens gravadas, afetando tamb\u00e9m o Hoje em Dia.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nAustr\u00e1lia",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nEmpresas e ag\u00eancias governamentais australianas foram grandemente impactadas pelas interrup\u00e7\u00f5es, incluindo empresas de m\u00eddia, companhias a\u00e9reas, aeroportos, supermercados, hospitais, universidades, escrit\u00f3rios de advocacia, farm\u00e1cias, cassinos, redes de trem, postos de gasolina, est\u00e1dios e bancos. Empresas de m\u00eddia australianas afetadas pelos problemas incluem a ABC, SBS, Seven Network e Nine Network.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nAs companhias a\u00e9reas afetadas incluem Qantas, Virgin Australia e Jetstar. Um porta-voz do Sydney Airport disse que a interrup\u00e7\u00e3o afetou algumas opera\u00e7\u00f5es de companhias a\u00e9reas e que o aeroporto pode enfrentar alguns atrasos ao longo da noite. Em seu boletim de not\u00edcias, a Nine Network informou que o toque de recolher do Sydney Airport significava que n\u00e3o haveria tempo suficiente para eliminar o atraso antes das 23h e que pode levar v\u00e1rios dias para resolver o atraso. O Melbourne Airport tamb\u00e9m foi afetado, com declara\u00e7\u00f5es no site destacando o \"problema tecnol\u00f3gico global\" como impactante nos procedimentos de check-in, e aconselhando os passageiros a consultarem as companhias a\u00e9reas relevantes. Canberra Airport, Darwin Airport, Adelaide Airport, Perth Airport, Hobart Airport, Launceston Airport e Brisbane Airport tamb\u00e9m foram afetados.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nVarejistas e redes de fast food tamb\u00e9m foram afetados pela interrup\u00e7\u00e3o, fazendo com que os sistemas de autoatendimento e pedidos online ficassem fora de servi\u00e7o. Postos de gasolina tamb\u00e9m foram afetados, com pessoas presas nas bombas de combust\u00edvel sem poder pagar pela gasolina porque os sistemas de pagamento n\u00e3o estavam funcionando.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nSupermercados afetados incluem Woolworths e Coles, com a maioria das lojas sendo for\u00e7adas a encerrar as atividades do dia. Aplicativos banc\u00e1rios ficaram fora do ar, afetando bancos como NAB, Westpac, ANZ, Commonwealth Bank, Bendigo Bank e Suncorp. A operadora de trens de carga Aurizon foi afetada. Trens regionais em NSW nas linhas Hunter Line e Southern Highlands Line foram cancelados ou atrasados, com a rede de \u00f4nibus e trens regionais em Victoria, operada pela V/Line, tendo todas as linhas suspensas. Sistemas em alguns hospitais da Ramsay Health Care e da Uniting Care foram afetados, incluindo o Wesley Hospital e o St Andrews Hospital em Brisbane. O Sunshine Coast Council foi um dos v\u00e1rios conselhos afetados. A bilheteria no Docklands Stadium para a partida da Australian Football League de sexta-feira \u00e0 noite entre o Essendon Bombers e o Adelaide Crows foi afetada.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nOs vitorianos foram aconselhados a ligar para 000 se um alarme de inc\u00eandio soar ou fuma\u00e7a for detectada, pois alguns alarmes autom\u00e1ticos em pr\u00e9dios podem n\u00e3o chamar automaticamente os servi\u00e7os de inc\u00eandio devido \u00e0 interrup\u00e7\u00e3o.",
+        "Incidente da Crowdstrike 2024\nEstados Unidos\nO governo australiano realizou uma reuni\u00e3o de emerg\u00eancia nacional para lidar com a interrup\u00e7\u00e3o. Foi declarado que o Mecanismo Nacional de Coordena\u00e7\u00e3o foi ativado, com o Primeiro-Ministro Anthony Albanese dizendo \"Entendo que os australianos est\u00e3o preocupados com a interrup\u00e7\u00e3o que est\u00e1 se desenrolando globalmente e afetando uma ampla gama de servi\u00e7os. Meu governo est\u00e1 trabalhando em estreita colabora\u00e7\u00e3o com o Coordenador Nacional de Seguran\u00e7a Cibern\u00e9tica\". Ele disse posteriormente: \"N\u00e3o h\u00e1 impacto na infraestrutura cr\u00edtica, servi\u00e7os governamentais ou servi\u00e7os Triple-0 at\u00e9 o momento. O Mecanismo Nacional de Coordena\u00e7\u00e3o foi ativado e est\u00e1 se reunindo agora\".",
+        "Incidente da Crowdstrike 2024\nNova Zel\u00e2ndia\nEmpresas operando na Nova Zel\u00e2ndia enfrentando problemas incluem os bancos ANZ, ASB, Kiwibank e Westpac, os supermercados Woolworths e o cart\u00e3o de transporte HOP da Auckland Transport. O Christchurch Airport tamb\u00e9m est\u00e1 tendo problemas, assim como o Parlamento. Clientes tamb\u00e9m enfrentaram problemas de pagamento nos supermercados Foodstuffs."
+    ]
+}

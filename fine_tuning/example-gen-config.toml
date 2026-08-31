@@ -1,0 +1,44 @@
+# Example generation configuration for Gervasio
+# This file demonstrates all available generation settings with their default values
+#
+# Note: Relative paths are interpreted relative to the current working directory
+# where the program is executed
+
+# Maximum number of new tokens to generate (default: 100)
+max_new_tokens = 100
+
+# Sampling temperature for controlling randomness (default: 0.7)
+# Higher values increase randomness, lower values make output more deterministic
+temperature = 0.7
+
+# Nucleus sampling parameter (default: null)
+# If set, only consider tokens with cumulative probability up to this value
+top_p = null
+
+# Top-k sampling parameter (default: null)
+# If set, only consider the top k most likely tokens
+top_k = null
+
+# Whether to use sampling (default: true)
+# If false, uses greedy decoding (always picks most likely token)
+do_sample = true
+
+# Repetition penalty factor (default: null)
+# Penalizes repetition of tokens, values > 1.0 discourage repetition
+repetition_penalty = null
+
+# Length penalty for beam search (default: null)
+# Values > 1.0 encourage longer sequences, < 1.0 encourage shorter ones
+length_penalty = null
+
+# Size of n-grams to prevent repetition (default: null)
+# If set, prevents repeating the same n-gram within this size
+no_repeat_ngram_size = null
+
+# Whether to stop generation early (default: null)
+# Can be true, false, or "never" to control early stopping behavior
+early_stopping = null
+
+# Number of beams for beam search (default: 1)
+# Values > 1 enable beam search, 1 disables it (greedy/sampling)
+num_beams = 1

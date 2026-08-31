@@ -1,0 +1,29 @@
+datasets_dir = "/home/nmarques/project/finetuning/gervasio-datasets"
+datasets_cache_dir = "/home/nmarques/project/finetuning/gervasio-datasets/cache"
+datasets_aliases = ["ptwikirag"]
+datasets_global_shuffle = true
+batch_max_examples = 1800
+batch_max_tokens = 2048
+base_model_name = "/home/nmarques/project/finetuning/gervasio/models/8b_models/best-8B-model/gervasio-8b-803-alpha64-merged"
+# adapter_name = "..."
+output_dir = "/home/nmarques/project/ft2/gervasio/models/8b_models/gervasio-8b-0877702"
+full_finetuning = false
+lora_r = 128
+lora_alpha = 256
+lr = 0.0001
+lr_gamma = 0.97
+warmup_steps = 100
+num_epochs = 40
+num_epoch_checkpoints = 1
+hourly_checkpoint = true
+auto_resume = true
+weight_decay = 0.01
+seed = 1234
+enable_gradient_checkpointing = false
+enable_fsdp = false
+run_eval = false
+verbose = true
+quiet_higher_ranks = true
+
+[datasets_configs]
+ptwikirag = {}

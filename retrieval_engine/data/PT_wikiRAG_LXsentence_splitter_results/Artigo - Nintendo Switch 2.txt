@@ -1,0 +1,318 @@
+Nintendo Switch 2
+
+A Nintendo Switch 2 é uma consola de jogos híbrida desenvolvida pela Nintendo, lançada na maioria das regiões em 5 de junho de 2025.
+Assim como a Switch original, esta pode ser usada como uma consola portátil, como um tablet, ou conectada via dock a uma tela externa, e os controlos Joy-Con 2 podem ser usados tanto acoplados quanto desacoplados.
+A Switch 2 possui uma tela de cristal líquido maior, mais armazenamento interno e gráficos, controlos e funcionalidades sociais atualizados.
+Suporta resolução 1080p e taxa de atualização de 120 Hz no modo portátil ou mesa, e resolução 4K com taxa de atualização de 60 Hz quando acoplado.
+
+Os jogos estão disponíveis em cartuchos físicos e na loja digital Nintendo eShop.
+Alguns cartuchos não contêm dados, mas permitem que os jogadores façam o download do conteúdo do jogo.
+Jogos selecionados da Switch podem usar o desempenho melhorado da Switch 2 por meio de atualizações gratuitas ou pagas.
+A Switch 2 mantém o serviço de assinatura Nintendo Switch Online, necessário para alguns jogos multijogador online e que dá acesso à biblioteca Nintendo Classics de jogos mais antigos por emulação; jogos de GameCube são exclusivos da Switch 2.
+O recurso GameChat permite que jogadores conversem remotamente e compartilhem telas e webcams.
+
+A Nintendo revelou a Switch 2 em 16 de janeiro de 2025, e anunciou suas especificações completas e detalhes do lançamento em 2 de abril.
+Pré-vendas na maioria das regiões começaram em 5 de abril.
+O sistema recebeu elogios pelas melhorias sociais e técnicas em relação ao seu antecessor, embora os preços elevados da consola e os seus jogos tenham sido criticados.
+Mais de 3,5 milhões de consolas Switch 2 foram vendidas mundialmente em quatro dias após o lançamento, tornando-a a consola da Nintendo com vendas mais rápidas.
+
+História
+
+Antecedentes
+
+A Nintendo lançou a Nintendo Switch original em março de 2017, que foi desenvolvido após o fracasso comercial da Wii U. A Switch foi promovida como uma consola híbrido com configurações portátil, mesa e acoplada, com controlos Joy-Con que podem ser destacados da unidade principal para essas configurações.
+Comparada com outras consolas no mercado na época, incluindo a PlayStation 4 e a Xbox One, a Switch tinha um hardware computacional menos potente para manter o preço do aparelho baixo, mas suficiente para rodar o tipo de jogos que a Nintendo costuma publicar; parte da estratégia de longo prazo da empresa conhecida como A Estratégia do Oceano Azul para se diferenciar dos demais fabricantes de consolas.
+A Switch tornou-se a consola doméstico mais vendido da Nintendo e, em 2023, a terceira consola de jogos mais vendido no geral, atrás da PlayStation 2 e da Nintendo DS.
+Na época do anúncio da Switch 2, em janeiro de 2025, mais de 146 milhões de unidades do Switch haviam sido vendidas mundialmente.
+
+Desenvolvimento
+
+Internamente na Nintendo, a pré-produção da próxima consola começou logo após o lançamento da Switch, com uma equipe avaliando as limitações de desempenho da Switch e identificando quais mudanças de hardware poderiam ser feitas para solucioná-las.
+Isso também proporcionou tempo suficiente para planejar o hardware e poder enviar os kits de desenvolvimento de software (SDKs) aos parceiros de desenvolvimento de jogos.
+O desenvolvimento formal da Switch 2 começou em 2019, liderado pelo produtor Kouichi Kawamoto, pelo diretor de hardware Takuhiro Dohta e pelo diretor técnico Tetsuya Sasaki.
+Embora consolas anteriores da Nintendo geralmente tenham apresentado um novo tipo de experiência de hardware, como o modo híbrido da Switch original, a equipe da Switch 2 constatou que os desenvolvedores já haviam se adaptado a criar jogos voltados para o modo Switch e decidiram que não seria útil introduzir mudanças significativas no hardware, focando em vez disso em melhorias no desempenho computacional para fornecer mais ferramentas aos desenvolvedores.
+Os componentes de hardware foram selecionados para equilibrar desempenho e vida útil da bateria, junto com a expansão da memória para suportar jogos mais recentes.
+
+Como a Nintendo priorizou a melhoria do hardware, a retrocompatibilidade foi mais complexa de implementar do que para consolas como a Nintendo 3DS ou Wii U, que possuem hardware semelhante aos seus predecessores.
+A Switch 2 usa uma combinação híbrida de emulação por software e hardware para evitar uma solução exclusivamente por software que seria mais pesada.
+O nome foi parcialmente influenciado pela retrocompatibilidade.
+A Nintendo também considerou "Super Nintendo Switch", similar ao Super Nintendo Entertainment System após o Nintendo Entertainment System, mas decidiu que isso diminuiria a característica de compatibilidade.
+
+Os novos controlos Joy-Con foram redesenhados do zero.
+Com a tela maior da consola, simplesmente aumentar o tamanho dos Joy-Con antigos não seria suficiente, pois o tamanho maior dificultaria segurar e acionar os botões de ombro.
+Por isso, a Nintendo adicionou cantos mais arredondados e estendeu os botões de ombro mais para as laterais do controle.
+O recurso HD Rumble foi melhorado e ultrapassou os limites do Joy-Con original, aumentando sua intensidade a níveis comparáveis aos dos controlos do GameCube.
+Em vez do sistema de trilhos usado no Switch original, os novos Joy-Con se conectam por meio de conexões magnéticas.
+A Nintendo havia explorado conexões magnéticas para o primeiro modelo do Switch, mas a conexão foi considerada instável, e o design foi alterado para o sistema de trilhos.
+Com o Joy-Con 2, eles refinaram a abordagem magnética, tornando a conexão mais forte e fácil de remover por um sistema mecânico de liberação.
+Com esse novo sistema, os Joy-Con agora emitem um clique audível ao se conectar magneticamente, o que, segundo Dohta, ajuda a simbolizar a marca Switch.
+
+A capacidade dos Joy-Con de serem usados como mouses de computador foi uma ideia introduzida por Kawamoto, que também jogava em computadores pessoais, pois o controle por mouse permitiria que os Joy-Con substituíssem os controlos de toque da tela quando o consola estivesse acoplada, além de possibilitar novas formas de jogar.
+Kawamoto disse que essa ideia representa o conceito de "pensamento lateral com tecnologia obsoleta" de Gunpei Yokoi, que faz parte da abordagem da Nintendo há várias décadas.
+O Pro Controller também foi redesenhado para a Switch 2, com movimentos dos joysticks suavizados, além de adicionar uma entrada de áudio e dois botões programáveis nas alças que o jogador pode personalizar.
+
+O recurso GameChat, que permite aos jogadores conversar, compartilhar telas e webcams, surgiu da frustração dos desenvolvedores da Nintendo com as ferramentas existentes durante a pandemia de COVID-19 e os períodos de lockdown em 2020.
+As soluções de software existentes permitiam conversar e usar webcams, mas só podiam compartilhar uma tela por vez, e eles improvisaram apontando suas webcams para as telas para que todas as telas ficassem visíveis ao mesmo tempo.
+Kawamoto disse que isso fazia parecer "que estávamos todos no mesmo lugar, cada um trazendo seu consola para jogar juntos, o que foi muito divertido", levando ao desenvolvimento do GameChat.
+A recurso GameChat foi desenvolvido para minimizar o uso de recursos do sistema que prejudicariam o desempenho do jogo, e parte da funcionalidade baseia-se na mesma tecnologia de streaming desenvolvida para a Wii U e seu Wii U GamePad.
+
+Rumores da indústria
+
+Rumores na indústria começaram já em 2019 sobre um modelo avançado do Switch, frequentemente apelidado pela mídia de "Nintendo Switch Pro"; muitas das características especuladas fizeram parte do modelo OLED da Switch, lançado em 2021.
+A Nintendo afirmou estar a trabalhar no seu próximo sistema de jogos para seus investidores em outubro de 2020.
+A Digital Foundry afirmou que a Nintendo pode ter trabalhado em um modelo "pro" para o Switch, mas que, em dezembro de 2022, aparentemente havia direcionado todo o desenvolvimento para o sucessor do Nintendo Switch.
+Documentos judiciais do caso FTC v. Microsoft em 2023, que contestou a Microsoft na compra da Activision Blizzard, mencionaram a Activision desenvolvendo para a "Switch NG".
+
+Em uma sessão de perguntas e respostas com acionistas em junho de 2023, o presidente da Nintendo, Shuntaro Furukawa, disse que a empresa buscava tornar a transição para o seu sucessor suave para os consumidores, e planejava manter o sistema de Conta Nintendo.
+A retrocompatibilidade foi uma parte fundamental do projeto; a Nintendo declarou:
+"A Nintendo Switch é jogada por muitos consumidores, e decidimos que a melhor direção seria permitir que os consumidores joguem seus softwares já adquiridos para Nintendo Switch no sucessor do Nintendo Switch."
+
+Video Games Chronicle reportou em julho de 2023 que a Nintendo havia enviado os SDKs para sua próxima consola aos parceiros de desenvolvimento e que a Nintendo queria evitar as faltas que as consolas da nova geração, a PlayStation 5 e a Xbox Series X/S, sofreram no lançamento.
+A Nintendo apresentou a Switch 2 em uma apresentação privada durante a Gamescom em agosto; entre as tech demos estava uma versão do jogo do Switch The Legend of Zelda: Breath of the Wild (2017), rodando com maior taxa de quadros e resolução, e a demonstração do Unreal Engine 5 The Matrix Awakens (2021).
+
+Em 7 de maio de 2024, Furukawa reconheceu o desenvolvimento do sucessor do Switch e disse que mais informações seriam reveladas no decorrer daquele ano fiscal.
+Rumores sobre a novo consola persistiram durante 2024.
+Na Consumer Electronics Show de 2025, no início de janeiro, vários fornecedores terceiros apresentaram acessórios programados para o sucessor da Switch, o que levou a Nintendo a emitir uma declaração afirmando que nenhum dos protótipos usados no evento eram oficiais.
+
+Em 18 de setembro de 2024, supostas imagens do sistema foram vazadas no Reddit, com detalhes correspondentes a relatórios anteriores.
+Em outubro de 2024, a Game Freak sofreu um grande vazamento de dados dos materiais de desenvolvimento de Pokémon, incluindo referências aos jogos da décima geração de Pokémon e ao sucessor do Switch, codinome "Ounce".
+A empresa americana de acessórios para videogames Genki mostrou renders detalhados da consola durante a Consumer Electronics Show.
+A Nintendo entrou com um processo contra eles em maio de 2025.
+
+O lançamento da Switch 2 foi anunciado para o final de 2024.
+Em fevereiro, o Bloomberg News reportou que a Nintendo informou às publicadoras que o lançamento seria adiado para o início de 2025.
+O The Nikkei, corroborando o Bloomberg, reportou que o atraso seria para prevenir faltas e revenda a preços abusivos.
+As ações da Nintendo caíram quase seis por cento após a notícia do atraso.
+Em agosto de 2024, GamesIndustry.biz e Eurogamer reportaram que a consola não seria lançada antes de abril de 2025.
+A publicadora de jogos e fabricante de acessórios Nacon antecipou que a consola seria lançada dentro do primeiro semestre do ano fiscal da Nintendo, que começa em abril e termina em 30 de setembro de 2025.
+
+Anúncio e promoção
+
+A Nintendo revelou o Switch 2 em 16 de janeiro de 2025, apresentando seu novo design e os controlos Joy-Con magnéticos, além de uma breve cena de um novo jogo Mario Kart, que foi posteriormente anunciado como Mario Kart World (2025).
+Uma apresentação de uma hora do Nintendo Direct sobre o Switch 2 estreou em 2 de abril, com apresentações do Nintendo Treehouse sobre jogos do Switch 2 nos dois dias seguintes.
+A Nintendo organizou uma série de eventos mundiais entre abril e junho para que jogadores pudessem experimentar a consola antes do lançamento.
+Furukawa afirmou que a Nintendo estava fazendo preparativos para o lançamento do Switch 2 visando evitar vendas excessivas para revendedores e especuladores, o que foi um problema em lançamentos anteriores de hardware da Nintendo.
+
+Como parte da promoção da Switch 2, a Nintendo of America firmou parceria com a Major League Baseball e o time Seattle Mariners para que os logos da Nintendo e da Switch 2 fossem exibidos nos uniformes do time durante a temporada de 2025.
+Em abril de 2025, a Nintendo of America lançou um comercial para a consola estrelado pelo ator Paul Rudd, referenciando diretamente um comercial do SNES que ele também estrelou há 34 anos.
+Durante a edição de março de 2025 do Nintendo Direct, a Nintendo anunciou e lançou simultaneamente o aplicativo Nintendo Today! para dispositivos iOS e Android, destinado a funcionar como o principal centro de notícias e calendário para fornecer informações sobre várias plataformas Nintendo, incluindo atualizações diárias relacionadas ao hardware, software, serviços e eventos futuros focados na Switch 2, seguindo o Nintendo Direct focado na Switch 2.
+
+Preço
+
+A Switch 2 foi lançada no Japão por 69.980 ienes, com impostos incluídos.
+Na América do Norte, a consola foi lançada por 449 dólares nos Estados Unidos e por 629 dólares canadenses no Canadá.
+Na Europa, o preço foi de 469 euros na União Europeia e de 395,99 libras esterlinas no Reino Unido (ambos os preços com IVA incluído).
+Na Oceania, a consola foi lançada por 699 dólares australianos na Austrália (incluindo o GST).
+No Japão, além do modelo regular "internacional" da consola, uma segunda versão "exclusiva para o Japão" foi disponibilizada por um preço significativamente mais baixo de 49.980 ienes.
+No entanto, ao contrário dos outros modelos da Switch 2, que podem ser usados globalmente, essa versão funciona apenas no idioma japonês e só pode utilizar serviços online registrados para residentes do Japão.
+
+No Brasil, o preço de lançamento da consola foi de R$4.499 e R$4.799 para o modelo com o bundle Mario Kart World.
+Junto com o lançamento da consola, Mario Kart World e Donkey Kong Bananza, foram sairam com o preço de R$ 499,90 e R$ 439,90 respetivamente.
+
+O preço de lançamento foi maior do que as previsões da indústria.
+Antes do lançamento, analistas da Bloomberg L.P. previam que, nos Estados Unidos, a Switch 2 teria um preço inicial de 400 dólares ou mais, dependendo do impacto das tarifas sobre produtos importados que entraram em vigor em fevereiro de 2025, mas afirmavam que a consola teria um lançamento forte, auxiliado por softwares exclusivos e pela retrocompatibilidade com a biblioteca da Switch.
+Quando o preço da Switch 2 nos Estados Unidos foi revelado como 449,99 dólares — cerca de 50% maior que o da Switch original em seu lançamento —, ele foi criticado por ser alto demais.
+Alguns jogos selecionados da Switch 2 foram anunciados com preço de varejo de 80 dólares, o que gerou críticas adicionais.
+Esse preço torna a Switch 2 a consola mais cara da Nintendo em mais de 30 anos, considerando a inflação.
+
+O presidente da Nintendo of America, Doug Bowser, declarou que o preço da Switch 2 nos EUA não se baseou nas tarifas impostas pela administração Trump em 2 de abril de 2025, como algumas publicações sugeriram; mas sim pelo fato da consola ser um modelo premium, coexistindo com os três modelos da Switch que a empresa continuará a vender.
+Bowser afirmou que os estoques da Switch 2 já estavam acumulados globalmente para o lançamento, e, portanto, era improvável que as tarifas afetassem a data de lançamento.
+
+Embora a Switch 2 tenha um preço relativamente alto nos Estados Unidos, outros analistas descartaram as tarifas americanas como o principal fator para o preço elevado da consola, citando o aumento geral dos preços dos videogames e o fato de que Canadá e países europeus apresentam valores semelhantes (embora, na comparação sem impostos, o preço europeu seja na verdade menor).
+Em artigo para o site Aftermath, o jornalista especializado em games Luke Plunkett opinou que a alta inflação pós-pandemia entre 2021 e 2023 e a consequente crise do custo de vida provavelmente impactariam as vendas da consola.
+Alguns fãs lançaram campanhas para que a Nintendo reduzisse o preço da Switch 2 e de seus jogos, utilizando plataformas de redes sociais e chats de texto durante as transmissões ao vivo da Nintendo.
+Ex-gerentes de relações públicas da Nintendo, Kit Ellis e Krysta Yang, criticaram a empresa por omitir detalhes sobre os preços durante a apresentação de revelação da consola, argumentando que isso criou confusão ao obrigar os consumidores a procurarem essa informação em outras fontes, o que agravou a resposta negativa.
+
+Pré-venda
+
+Meses antes do lançamento da consola, a Nintendo estocou "centenas de milhares" de unidades nos Estados Unidos para evitar possíveis tarifas elevadas impostas pela administração Trump e reduzir a probabilidade de escassez.
+A empresa também transferiu a produção e o fornecimento de componentes da China para o Sudeste Asiático, especialmente o Vietnã, a fim de evitar tarifas aplicadas especificamente contra produtos chineses.
+
+Para evitar problemas com revenda no Japão, uma versão do Switch 2 com bloqueio regional foi lançada a preço reduzido nas lojas físicas do país, enquanto uma versão sem bloqueio regional será disponibilizada apenas por meio da loja online da Nintendo.
+Em outras regiões, embora as pré-vendas tenham sido disponibilizadas por varejistas, a Nintendo criou uma lista de espera para pré-venda direta com a empresa, exigindo que os usuários possuíssem uma Conta Nintendo e tempo de jogo registrado, entre outros requisitos.
+
+As pré-vendas começaram na maioria das regiões em 5 de abril de 2025.
+Pouco depois do anúncio das tarifas em 2 de abril, a Nintendo adiou a pré-venda nos Estados Unidos "para avaliar o possível impacto das tarifas e as condições de mercado em evolução".
+Um adiamento semelhante ocorreu no Canadá para "alinhar o cronograma de pré-venda com o dos Estados Unidos".
+Posteriormente, a Nintendo confirmou que as pré-vendas da consola nos EUA e no Canadá começariam em 24 de abril de 2025, mantendo o preço da consola e do pacote com Mario Kart World para o lançamento, embora alguns acessórios tenham recebido aumento de preço entre US$ 5 e US$ 10.
+
+As pré-vendas nos EUA e Canadá começaram em 24 de abril às 0h (horário do Leste).
+Pouco depois da abertura das pré-vendas, as redes varejistas Walmart, Target e Best Buy relataram erros generalizados em seus sites devido ao grande volume de acessos, com os estoques da consola esgotando-se nacionalmente em questão de minutos.
+A varejista especializada em jogos GameStop iniciou suas pré-vendas mais tarde naquele mesmo dia, às 11h (ET), também relatando falhas técnicas no site.
+
+A Nintendo alertou os consumidores japoneses de que mais de 2,2 milhões de pessoas haviam se registrado para a oportunidade de realizar a pré-venda do modelo exclusivo para o Japão, superando amplamente suas expectativas.
+A empresa informou que não conseguiria atender a todos esses pedidos até a data de lançamento da consola; os não selecionados seriam automaticamente incluídos em programas semelhantes para os próximos lotes do aparelho.
+A Nintendo emitiu um aviso semelhante para os consumidores dos Estados Unidos que realizassem a pré-venda por meio da loja oficial da empresa, informando que a entrega na data de lançamento "não era garantida" devido à "demanda extremamente alta".
+
+Os varejistas começaram a receber os estoques da consola no final de maio de 2025, e alguns consumidores que haviam feito a pré-venda compartilharam vídeos do hardware cerca de duas semanas antes do lançamento.
+No entanto, a consola era inutilizável sem uma atualização obrigatória disponibilizada no dia de lançamento.
+
+Hardware
+
+Assim como seu antecessor, o Switch 2 é uma consola de videojogos híbrida, podendo ser utilizada tanto como uma consola portátil quanto conectada a uma base que a liga a uma televisão ou monitor, funcionando como uma consola de mesa.
+A unidade mantém um formato semelhante ao da Switch original, composta pelo corpo principal que inclui a tela e o hardware principal, além de dois controlos Joy-Con 2 que podem ser acoplados às laterais da unidade no modo portátil, ou se comunicar sem fio com a consola quando este está acoplado na base.
+
+Consola
+
+Além das portas herdadas do design do Nintendo Switch original — incluindo uma porta USB-C na parte inferior que também serve como fonte de energia e conector na base, uma entrada para fones de ouvido e uma entrada para cartuchos — a Nintendo Switch 2 inclui uma segunda porta USB-C na parte superior do aparelho, além de um microfone interno com cancelamento de ruído.
+Com os controlos Joy-Con 2 acoplados, a consola mede 272 mm de largura, 116 mm de altura e 13,9 mm de espessura, com peso total de 534 g.
+
+O Switch 2 utiliza uma tela sensível ao toque LCD com resolução 1080p (279 ppi) e suporte a HDR, oferecendo taxa de atualização variável de até 120 Hz.
+Quando conectado à base, a consola pode apresentar imagem em até 1440p a 120 Hz ou 4K a 60 Hz com HDR.
+O modelo original da Switch teve uma revisão com tela OLED, e embora a Nintendo tenha considerado usar OLED na Switch 2, o líder de design de hardware Tetsuya Sasaki afirmou que a empresa optou pelo LCD devido aos avanços recentes na tecnologia, incluindo o suporte ao HDR.
+Diferente do modelo de primeira geração, a base do Switch 2 possui conector Ethernet integrado e uma ventoinha de resfriamento.
+
+O system on a chip da consola, o Nvidia Tegra T239 (codinome "Drake"), conta com uma CPU ARM Cortex-A78C octa-core, uma GPU Ampere de 12 SM (com 1.536 núcleos CUDA baseados na arquitetura Ampere), e uma interface de memória LPDDR5X de 128 bits, com taxa nominal de 8533 MT/s.
+A consola possui 12 GB de memória RAM, distribuídos em dois chips de 6 GB, oferecendo cerca de 102 GB/s de largura de banda no modo dock e 68 GB/s no modo portátil.
+A Switch 2 é compatível com as tecnologias Deep learning super sampling (DLSS) e ray tracing da Nvidia, além de suportar taxa de atualização variável por meio do Nvidia G-Sync no modo portátil, utilizando os núcleos tensor e RT.
+A consola também oferece suporte a Wi-Fi 6.
+
+A Switch 2 inclui 256 GB de armazenamento interno, um aumento significativo em relação aos 32~64 GB do modelo original.
+O armazenamento pode ser expandido por meio de cartões microSD Express de até 2 TB, que permitem velocidades de leitura e gravação mais altas que os cartões microSDHC e microSDXC utilizados anteriormente.
+A Switch 2 só permite o carregamento de jogos a partir de cartões microSD Express; embora cartões microSDHC e microSDXC ainda possam ser lidos, seu uso é limitado ao acesso a capturas de tela e vídeos.
+
+A Switch 2 é alimentado principalmente no modo portátil por uma bateria interna de íon-lítio recarregável não removível com capacidade de 5.220 mAh.
+A Nintendo estima a duração da bateria entre aproximadamente 2 e 6,5 horas, embora ressalte que esses valores são estimativas aproximadas e que a duração real depende do software específico em uso.
+A bateria pode ser carregada por qualquer uma das portas USB-C da consola.
+O tempo estimado para recarga é de aproximadamente 3 horas quando o sistema está em modo de espera.
+
+Em 1º de janeiro de 2025, imagens supostamente da placa-mãe do sistema foram divulgadas.
+Richard Leadbetter, do Digital Foundry, concluiu que, ao invés de portar a arquitetura baseada em Ampere para um processo de fabricação menor, é mais provável que esteja sendo utilizado o processo de 8 nm da Samsung, que é mais barato.
+Embora esse processo apresente desafios para desempenho e duração da bateria, Leadbetter acredita que essas dificuldades podem ser mitigadas devido à natureza de plataformas de hardware fixo, permitindo otimizações personalizadas.
+
+Fora do Japão, a Switch 2 não possui trava regional.
+No Japão, a Nintendo comercializa o modelo internacional multilíngue padrão e uma versão mais barata que funciona apenas com contas Nintendo japonesas e não pode ser configurada para outros idiomas.
+Isso foi interpretado como uma tentativa de atrair o mercado japonês e combater a desvalorização do iene japonês.
+
+Em maio de 2025, a Nintendo anunciou uma atualização no acordo de usuário e na política de privacidade da conta Nintendo que, caso violada pelos usuários da Switch 2, pode "tornar os serviços da conta Nintendo e/ou o dispositivo Nintendo aplicável permanentemente inutilizáveis, total ou parcialmente".
+Espera-se que isso seja uma tentativa de combater a pirataria e a emulação de jogos.
+O acordo também se aplica à instalação de software não autorizado ou à modificação do hardware para aumentar a velocidade de funcionamento.
+
+Joy-Con 2
+
+Os controlos Joy-Con 2 apresentam um design atualizado em relação aos Joy-Con originais.
+Além de serem maiores para acompanhar o tamanho ampliado da consola, eles se conectam magneticamente ao encaixar nas laterais, substituindo o sistema de trilhos usado anteriormente.
+Para removê-los, há um pequeno botão no Joy-Con 2 que aciona um cilindro interno para empurrar o controlador para fora da unidade principal.
+A Nintendo afirmou que os analógicos dos controlos são maiores, mais suaves e mais duráveis; relatórios iniciais sugeriram que os novos thumbsticks usariam sensores de efeito Hall para resolver os problemas de drift causados pelo acúmulo de poeira no sistema analógico dos modelos originais, mas a Nintendo confirmou em abril de 2025 que sensores de efeito Hall não são usados.
+
+Os botões SL e SR localizados nas laterais dos controlos foram ampliados, e um novo botão "C" foi adicionado no Joy-Con 2 direito para ativar o novo recurso "GameChat".
+Os controlos também podem ser usados como mouse de computador em jogos compatíveis, deslizando-os lateralmente.
+Ambos os Joy-Con 2 possuem bateria de 500mAh, com duração estimada em 20 horas.
+Eles são recarregados quando conectados à consola ou por meio de docks ou grips de terceiros.
+O sensor infravermelho presente nos Joy-Con da primeira geração foi removido.
+
+Software
+
+Distribuição
+
+Assim como seu antecessor, os jogos para a Switch 2 podem ser obtidos em formatos físico e digital, sendo que os jogos distribuídos fisicamente são armazenados em Cartuchos proprietários (Game Cards) que mantêm formato semelhante aos usados no Switch de primeira geração.
+Os cartuchos para jogos do Switch 2 são vermelhos, para diferenciá-los dos cartuchos cinza escuro usados na Switch original.
+Assim como os cartuchos da Switch, os cartuchos da Switch 2 são revestidos com um amargo não tóxico para impedir que crianças os coloquem na boca.
+
+A partir da Switch 2, alguns jogos podem ser lançados com Cartuchos que contêm apenas uma licença digital e nenhum dado do jogo ("Game-Key Card"); ao serem inseridos, os arquivos do jogo são baixados para a consola.
+Diferentemente das compras digitais, o Cartucho deve permanecer inserido para iniciar o jogo.
+Os Game-Key Cards são uma evolução de prática semelhante usada em alguns jogos de terceiros para Switch, que continham apenas parte dos dados no cartucho devido a limitações de tamanho, exigindo download do restante.
+A Nintendo afirmou que a introdução dos Game-Key Cards visa preparar a Switch 2 para os próximos anos, já que os jogos tendem a aumentar de tamanho e ultrapassar o limite de armazenamento dos cartuchos tradicionais; com os Game-Key Cards, os jogos ainda poderão ser vendidos no varejo além da distribuição digital.
+Jogos em Game-Key Cards não ficam vinculados a uma conta Nintendo.
+
+Serviços online
+
+O serviço Nintendo Switch Online foi mantido na Switch 2, embora o serviço "Game Voucher" não esteja disponível para jogos exclusivos da Switch 2.
+Como parte do serviço legado de jogos na Switch Online, uma seleção de jogos do GameCube é distribuída no Expansion Pack, exclusivamente para a Switch 2, sob a marca reformulada "Nintendo Classics".
+A coleção foi lançada junto com a consola em junho de 2025, inicialmente incluindo The Legend of Zelda: The Wind Waker, Soulcalibur II (ambos de 2002) e F-Zero GX (2003).
+Outros jogos, como Luigi's Mansion (2001), Super Mario Sunshine (2002), Chibi-Robo! e Fire Emblem: Path of Radiance (ambos de 2005), serão adicionados gradualmente em datas não especificadas.
+Recursos adicionais aplicados ao catálogo Nintendo Classics são suportados exclusivamente na Switch 2, incluindo filtros CRT e função de retroceder (rewind) adicionados aos jogos do Nintendo 64 disponíveis no serviço.
+A Nintendo também lançou uma nova versão do controle GameCube junto com a inclusão da plataforma no Nintendo Classics, disponível exclusivamente para assinantes existentes da Switch Online.
+
+Um serviço de chat de voz chamado GameChat permite que os usuários façam chamadas de voz e compartilhem a tela com amigos.
+O GameChat suporta chamadas de vídeo com um acessório opcional de webcam.
+O serviço pode ser acessado por um botão "C" no Joy-Con 2 direito.
+Porém, o chat será gratuito apenas até 31 de março de 2026, após o qual será necessária uma assinatura paga do Nintendo Switch Online para utilizar o recurso.
+
+Biblioteca
+
+O trailer de revelação da consola, em janeiro de 2025, foi acompanhado por imagens iniciais de Mario Kart World, posteriormente anunciado para lançamento junto com a Switch 2, em 5 de junho.
+Jogos first-party da Switch previstos para 2025, como Metroid Prime 4: Beyond e Pokémon Legends: Z-A, foram disponibilizados simultaneamente no Switch 2 como edições "Nintendo Switch 2 Edition", com melhorias gráficas e de desempenho.
+O jogo Nintendo Switch 2 Welcome Tour foi revelado no Direct de 2 de abril, sendo lançado como exclusivo online junto com o lançamento da consola.
+
+Suporte de terceiros
+
+Uma pesquisa realizada durante a Game Developers Conference de janeiro de 2024 perguntou a 3.000 desenvolvedores independentes e AAA sobre a criação de jogos e as plataformas em que estavam trabalhando.
+Desses, 250 afirmaram já estar produzindo jogos para a Switch 2, enquanto outros 32% demonstraram interesse em desenvolver para a consola.
+Em maio de 2024, a Nintendo anunciou a intenção de adquirir o estúdio sediado em Miami, Shiver Entertainment, anteriormente pertencente ao grupo Embracer Group.
+A empresa afirmou que a fusão permitiria a obtenção de recursos especializados internos para desenvolvimento e portabilidade de software, ao mesmo tempo em que o estúdio manteria seus compromissos com Switch e outras plataformas.
+A Bloomberg News reportou que a aquisição visa reforçar os esforços da Nintendo para garantir jogos de desenvolvedores terceiros para a Switch 2, com a Shiver auxiliando esses desenvolvedores na otimização dos jogos para a plataforma.
+Em setembro de 2024, a desenvolvedora Pathea Games anunciou My Time at Evershine, sucessor espiritual de My Time at Portia (2019) e My Time at Sandrock (2023), confirmado para o sucessor da Switch.
+Em outubro de 2024, a Playtonic Games anunciou que o remaster Yooka-Replaylee seria lançado nas "plataformas Nintendo".
+
+Durante o Nintendo Direct focado na Switch 2 em abril de 2025, diversas publishers anunciaram suporte a consola, incluindo Square Enix, Capcom, Electronic Arts, Take-Two Interactive, CD Projekt Red, Bandai Namco, Sega, Supergiant Games, Warner Bros.
+Games, Activision Blizzard e IO Interactive.
+Foi confirmada uma lista inicial de 46 jogos de parceiros, dos quais 17 foram programados para lançamento simultâneo com a consola em junho.
+Entre os lançamentos de terceiros destacados durante a transmissão estavam Final Fantasy VII Remake Intergrade, Hades II, Borderlands 4, Yakuza 0 Director's Cut, Elden Ring - Tarnished Edition, Cyberpunk 2077 Ultimate Edition, Hitman: World of Assassination, 007 First Light, Split Fiction, Daemon x Machina: Titanic Scion e Street Fighter 6.
+A Electronic Arts e a Take-Two Interactive também se comprometeram formalmente a trazer suas franquias esportivas para a plataforma, incluindo EA Sports FC, Madden NFL, WWE 2K e NBA 2K.
+Além disso, a Nintendo revelou colaborações com estúdios parceiros para desenvolver jogos exclusivos para o sistema, como Hyrule Warriors: Age of Imprisonment em parceria com a Koei Tecmo e The Duskbloods com a FromSoftware.
+
+O executivo da Microsoft Gaming, Phil Spencer, afirmou que a empresa dará suporte à Switch 2 com versões de seus jogos da Xbox, como parte da sua estratégia multiplataforma.
+Entre os jogos que devem ser portados para a consola estão Halo: The Master Chief Collection e Microsoft Flight Simulator 2024.
+A Microsoft já tinha confirmado um acordo com a Nintendo para trazer franquias como Call of Duty para as suas plataformas, como parte da aquisição da Activision Blizzard, o qual se tornou legalmente vinculativo em fevereiro de 2023.
+
+A publisher Ubisoft declarou estar "apaixonada" pela consola após sua revelação, e há rumores de que títulos como Assassin's Creed Mirage e Assassin's Creed Shadows serão lançados para o sistema durante sua janela de lançamento.
+Weicong Wu, produtor de Marvel Rivals, demonstrou interesse em levar o jogo para a Switch 2, afirmando que a equipe já está em contato com a Nintendo e possui kits de desenvolvimento.
+Contudo, afirmou que o título será lançado na consola apenas se o desempenho for satisfatório.
+
+Compatibilidade retroativa
+
+A Switch 2 é compatível retroativamente com a maioria dos jogos do Switch, tanto físicos quanto digitais.
+Alguns jogos não são diretamente compatíveis com as mudanças de hardware da Switch 2 e dos Joy-Con 2, mas podem ser jogados utilizando os Joy-Con do Switch original, como títulos que requerem funcionalidade IR.
+Para a maioria dos demais jogos, eles são executados por meio de um tipo de emulação similar a uma camada de tradução, já que a Switch 2 possui hardware diferente da Switch.
+O diretor de hardware Takuhiro Dohta descreveu essa solução como "algo entre um emulador de software e compatibilidade de hardware", e Tetsuya Sasaki afirmou que o método "é realizado em tempo real à medida que os dados são lidos".
+Esse método permite que jogos da Switch tenham recursos da Switch 2 adicionados, como suporte ao GameChat, quando jogados na Switch 2.
+Até maio de 2025, dos 122 jogos desenvolvidos pela Nintendo testados, todos foram compatíveis exceto o Nintendo Labo VR Kit, devido ao tamanho maior da Switch 2, que não cabe no acessório.
+Dos mais de 15 mil jogos third-party da Switch testados pela Nintendo, cerca de 75% foram compatíveis, e aproximadamente 170 apresentaram alguns problemas.
+Alguns softwares adicionais, como aplicativos para Hulu e Crunchyroll, também são incompatíveis.
+
+Certos jogos da Switch têm atualizações para a Switch 2 vendidas separadamente ou disponíveis via o Nintendo Switch Online Expansion Pack, com alguns adicionando novo conteúdo.
+A linha inicial de upgrades inclui Metroid Prime 4: Beyond, The Legend of Zelda: Breath of the Wild, The Legend of Zelda: Tears of the Kingdom, Super Mario Party Jamboree, Pokémon Legends: Z-A e Kirby and the Forgotten Land, sendo ambos os jogos Zelda títulos de lançamento.
+Outros jogos da Switch, como Super Mario Odyssey e Pokémon Scarlet and Violet, receberam atualizações gratuitas de desempenho para a Switch 2, mas sem conteúdo adicional.
+Os jogos também podem ser inseridos na Switch original para jogar como se fosse a cópia original do jogo da Switch.
+
+Para ajudar os usuários a levar seus jogos da Switch para a Switch 2, a Nintendo introduziu em abril de 2025 os Virtual Game Cards para o software da Switch original.
+Os Virtual Game Cards podem ser usados para transferir virtualmente jogos digitais comprados para uso em uma segunda Switch ou a Switch 2, ou emprestados para a Switch de um familiar por até duas semanas.
+
+Os Joy-Con e os Nintendo Switch Pro Controllers são em sua maioria compatíveis para frente (Forward compatibility), com alguns jogos da Switch exigindo que sejam compatíveis com a Switch 2.
+Esses jogos incluem a maioria dos jogos Nintendo Labo, Ring Fit Adventure (2019) e WarioWare: Move It!
+(2023).
+
+Recepção
+
+Resposta da crítica
+
+Digital Trends e TheGamer elogiaram o design acessível da base da consola, enquanto a PCMag demonstrou ambivalência quanto ao seu uso; outros críticos se mostraram satisfeitos com o sistema de ventilação aprimorado.
+O suporte traseiro foi elogiado por alguns veículos pelas melhorias no design e pela durabilidade, embora a Wired tenha expressado preocupação com sua segurança e espessura.
+A tela, especialmente pela ausência de OLED, foi alvo de comentários: a Wired considerou que a taxa de atualização de 120 Hz e o suporte a HDR10 compensavam essa ausência.
+Críticos concordaram que o display da Switch 2 representava uma melhoria em relação ao da Switch original; alguns, no entanto, o consideraram um ponto fraco, apesar de seus méritos.
+O design aprimorado dos Joy-Con foi elogiado, e alguns críticos destacaram que o aumento do tamanho dos botões SL e SR foi útil.
+Por outro lado, a ausência de uma solução para o problema do stick drift gerou críticas.
+Críticos também observaram que a funcionalidade dos Joy-Con como mouse de computador funcionava bem até mesmo sobre a perna do usuário.
+A redução da duração da bateria foi alvo de críticas; alguns compararam negativamente com a estimativa de 2,5 a 6,5 horas da edição de lançamento da Switch, embora a Engadget tenha considerado o valor padrão para dispositivos portáteis de jogos de alto desempenho.
+
+Os recursos sociais da consola foram amplamente elogiados.
+A Wired descreveu o GameChat como "o recurso totalmente novo mais notável" da consola, enquanto a Mashable afirmou que a Nintendo não reinventou a roda com um conceito de duas décadas, mas o levou "além da utilidade pura, tornando-o ativamente prazeroso de usar".
+A Business Insider considerou que o recurso foi "feito para sessões casuais e rápidas de multijogador", em vez de comunicações especializadas.
+Críticos elogiaram a precisão da função de transcrição de voz para texto, bem como sua capacidade de identificar diferentes falantes.
+O microfone embutido também recebeu elogios pelas suas capacidades de cancelamento de ruído.
+Muitos críticos, no entanto, classificaram o recurso de compartilhamento de tela do GameChat como instável ou com travamentos.
+A Mashable descreveu o sistema de Virtual Game Card como potencialmente um "pesadelo logístico para irmãos competitivos" disputando a posse de jogos digitais compartilhados.
+
+A linha de títulos de lançamento foi criticada por ser fraca; a PC Gamer a chamou de "uma das mais fracas dos últimos tempos".
+Críticos também criticaram a Nintendo por cobrar pelo título de lançamento Nintendo Switch 2 Welcome Tour.
+Observou-se que muitos dos jogos de lançamento eram ports de outros sistemas que a Switch original não conseguia rodar, e alguns elogiaram as melhorias de desempenho de jogos da Switch original na Switch 2.
+A PC Gamer escreveu que a tecnologia gráfica Deep learning super sampling tornava jogos como Cyberpunk 2077 "subjetivamente melhores", e a revista Edge elogiou a precisão dos recursos de controle por movimento semelhantes ao mouse durante partidas de Metroid Prime 4: Beyond e Welcome Tour.
+Críticos demonstraram preocupação com o preço total da consola, jogos e acessórios em geral.
+Também surgiram preocupações quanto à integridade da função de transferência de dados da Switch 1.
+
+Vendas
+
+A Nintendo anunciou em 10 de junho de 2025, quatro dias após o lançamento, que a Switch 2 havia vendido mais de 3,5 milhões de unidades em todo o mundo, tornando-se a consola de venda mais rápida da empresa até então.
+A Famitsu reportou que a consola vendeu 947.931 unidades no Japão nos primeiros quatro dias após o lançamento, superando as 329.152 unidades vendidas na estreia da Switch na região.
+A IGN afirmou que as vendas iniciais da Switch 2 nesses quatro primeiros dias foram o dobro das vendas de lançamento da Switch original em todas as regiões.

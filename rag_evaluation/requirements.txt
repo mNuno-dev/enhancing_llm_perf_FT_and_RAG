@@ -1,0 +1,9 @@
+# Install the customised RAGAS fork first (provides the PT-adapted metrics):
+#   pip install -e ./RAGAS_customized_for_PTPT/ragas/
+#
+# Then install the remaining dependencies listed below.
+langchain-openai
+langchain-groq
+google-generativeai
+datasets
+huggingface_hub

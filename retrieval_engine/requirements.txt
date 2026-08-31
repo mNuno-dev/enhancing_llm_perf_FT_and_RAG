@@ -1,0 +1,17 @@
+numpy
+transformers
+datasets
+ipykernel
+notebook
+weaviate-client
+sentence-transformers
+openai
+fastapi
+torch
+torchvision
+torchaudio
+"uvicorn[standard]"
+pytest
+pytest-mock
+mlflow
+pandas

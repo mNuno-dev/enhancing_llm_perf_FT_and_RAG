@@ -1,0 +1,29 @@
+datasets_dir = "/home/nmarques/project/finetuning/gervasio-datasets"
+datasets_cache_dir = "/home/nmarques/project/finetuning/gervasio-datasets/cache"
+datasets_aliases = ["ptwikirag"]
+batch_max_examples = 1000
+batch_max_tokens = 2048
+datasets_global_shuffle = true
+base_model_name = "/home/nmarques/project/finetuning/gervasio/models/1b_models/best-1B-model/gervasio-1b-103-alpha128-merged"
+# adapter_name = "/home/nmarques/project/finetuning/gervasio/models/1b_models/best-1B-model/gervasio-1b-103-alpha128"
+output_dir = "/home/nmarques/project/ft2/gervasio/models/1b_models/gervasio-1b-0177718"
+full_finetuning = false
+lora_r = 256
+lora_alpha = 512
+lr = 0.0001
+lr_gamma = 0.97
+warmup_steps = 100
+num_epochs = 100
+num_epoch_checkpoints = 1
+hourly_checkpoint = true
+auto_resume = true
+weight_decay = 0.01
+seed = 42
+enable_gradient_checkpointing = false
+enable_fsdp = false
+run_eval = false
+verbose = true
+quiet_higher_ranks = true
+
+[datasets_configs]
+ptwikirag = {}

@@ -1,0 +1,30 @@
+Embedding Model = Qwen/Qwen3-Embedding-8B
+
+---------- // ----------
+Chunk-Strategy --> LumberChunker_GEN.jsonl
+Avg Time to Response --> 0.29314367036367284
+---------- // ----------
+
+
+---------- // ----------
+Chunk-Strategy --> full_doc_GEN.jsonl
+Avg Time to Response --> 0.37225767764551887
+---------- // ----------
+
+
+---------- // ----------
+Chunk-Strategy --> simple_doubleNL_GEN.jsonl
+Avg Time to Response --> 0.4209318877807979
+---------- // ----------
+
+
+---------- // ----------
+Chunk-Strategy --> DPC_chunks_GEN.jsonl
+Avg Time to Response --> 0.36052227919471674
+---------- // ----------
+
+
+---------- // ----------
+Chunk-Strategy --> LXSentenceSplit_GEN.jsonl
+Avg Time to Response --> 0.5875235343801564
+---------- // ----------

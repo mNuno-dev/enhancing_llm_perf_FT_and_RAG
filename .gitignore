@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+
+# Secrets / environment
+.env
+*.env.*
+google_service_keys/
+
+# Runtime artifacts
+*.out
+*.err
+nohup.out
+logs/
+*.log
+
+# Large / generated data
+retrieval_engine/retrieval_evaluation/intermediate_saves_q_embeddings/
+retrieval_engine/question_similarity/perguntas_com_conflitos_sim.txt
+retrieval_engine/question_similarity/perguntas_sem_conflitos_sim.txt
+
+# Model weights
+models/
+*.bin
+*.safetensors
+*.gguf
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+.cursor/
+
+# Fine-tuning package source — permission pending
+# The gervasio package (fine_tuning/src/) and its tests (fine_tuning/tests/)
+# were developed primarily by a colleague at the NLX research group.
+# Excluded until redistribution permission is confirmed.
+fine_tuning/src/
+fine_tuning/tests/

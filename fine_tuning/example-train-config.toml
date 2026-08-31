@@ -1,0 +1,99 @@
+# Example training configuration for Gervasio
+# This file demonstrates all available settings with their default values
+# Required fields (no defaults) are marked with example values
+#
+# Note: Relative paths are interpreted relative to the current working directory
+# where the program is executed
+
+# Directory containing dataset files (required)
+datasets_dir = "/path/to/datasets"
+
+# Directory for caching processed datasets (required)
+datasets_cache_dir = "/path/to/datasets/cache"
+
+# List of dataset aliases to use for training (required)
+datasets_aliases = ["dataset1", "dataset2"]
+
+# Configuration dictionary for each dataset (required)
+# Keys should match datasets_aliases, values are dataset-specific parameters
+[datasets_configs]
+dataset1 = { param = "value" }
+dataset2 = { param = "value" }
+
+# Whether to shuffle datasets globally across all aliases (required)
+datasets_global_shuffle = true
+
+# Maximum number of examples per batch (required)
+batch_max_examples = 1000
+
+# Maximum number of tokens per batch (required)
+batch_max_tokens = 2048
+
+# HuggingFace model name or path for the base model (required)
+base_model_name = "meta-llama/Llama-2-7b-hf"
+
+# Name for the LoRA adapter (required)
+adapter_name = "my_adapter"
+
+# Output directory for checkpoints and logs (required)
+output_dir = "/path/to/output"
+
+# Whether to perform full fine-tuning instead of LoRA (default: false)
+full_finetuning = false
+
+# LoRA rank parameter (default: 32)
+lora_r = 32
+
+# LoRA alpha parameter (default: 128)
+lora_alpha = 128
+
+# Learning rate (default: 2e-5)
+lr = 0.00002
+
+# Learning rate decay gamma (default: 0.85)
+lr_gamma = 0.85
+
+# Number of warmup steps for learning rate scheduler (default: 500)
+warmup_steps = 500
+
+# Number of training epochs (default: 2)
+num_epochs = 2
+
+# Number of checkpoints to save per epoch (default: 3)
+num_epoch_checkpoints = 3
+
+# Whether to save hourly checkpoints (default: true)
+hourly_checkpoint = true
+
+# Maximum steps per epoch (useful for debugging, default: null)
+max_epoch_steps = null
+
+# Whether to automatically resume from latest checkpoint (default: true)
+auto_resume = true
+
+# Weight decay for optimizer (default: 0.01)
+weight_decay = 0.01
+
+# Random seed for reproducibility (default: 1234)
+seed = 1234
+
+# Enable gradient checkpointing to save memory (default: false)
+enable_gradient_checkpointing = false
+
+# Enable Fully Sharded Data Parallel training (default: false)
+enable_fsdp = false
+
+# Whether to run evaluation during training (default: false)
+run_eval = false
+
+# Enable verbose logging (default: true)
+verbose = true
+
+# Suppress logging on higher ranks in distributed training (default: true)
+quiet_higher_ranks = true
+
+# Path to JSONL file containing prompts for continuation generation (default: null)
+prompts_file = null
+
+# Path to generation config file (JSON/TOML) for continuation generation (default: null)
+gen_config_file = null

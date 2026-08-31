@@ -1,0 +1,262 @@
+Incidente da Crowdstrike 2024
+
+Na sexta-feira, 19 de julho de 2024, sistemas de computador ao redor do mundo sofreram uma pane que levou a contínuos problemas em várias indústrias diferentes, relacionada a uma atualização defeituosa do software de segurança CrowdStrike para sistemas Microsoft Windows.
+
+Detalhes técnicos
+
+O incidente faz com que as máquinas Windows recebam uma tela azul da morte com a mensagem: “Recuperação: parece que o Windows não carregou corretamente”.
+A empresa americana de segurança cibernética CrowdStrike admitiu a responsabilidade.
+A principal causa é uma atualização de driver do software de segurança Falcon Sensor.
+
+A solução oficial é excluir os arquivos %windir%\System32\drivers\CrowdStrike\C-00000291*.sys no modo de segurança.
+Requer aplicação manual.
+
+Às 09h45 ( UTC ) uma correção foi implantada, segundo o CEO.
+
+Impacto
+
+Houve interrupções em todo o mundo.
+Como muitos sistemas de TI em todo o mundo usam Windows e o software CrowdStrike, foram relatadas interrupções em muitos setores empresariais.
+Mais de 1 000 voos foram cancelados globalmente, pois o setor de viagens em geral foi amplamente afetado.
+Por algumas estimativas, o erro do CrowdStrike causou problemas a aproximadamente 24 000 clientes.
+O número de computadores individuais afetados é difícil de determinar, pois muitos dos clientes são grandes organizações.
+Em 2021, estimava-se que cerca de 47% das empresas na lista Fortune 500 eram clientes da CrowdStrike.
+Em seu próprio site, a CrowdStrike afirma que tem quase 60% das empresas da Fortune 500 e mais da metade das Fortune 1 000 entre seus clientes.
+
+Transporte aéreo
+
+Na América do Norte, um "ground stop" foi emitido pelas companhias United, Delta e American Airlines.
+Voos no ar continuarão voando, mas novos voos não decolarão.
+Allegiant Airlines também foram paralisadas pela interrupção, de acordo com a FAA.
+
+A Swiss International Air Lines teve 30% dos voos paralisados.
+O Aeroporto de Praga na República Tcheca, o Aeroporto de Budapeste na Hungria e a Lufthansa na Alemanha enfrentaram problemas.
+A Ryanair relatou que a reserva e o check-in estavam indisponíveis, e seus voos do Aeroporto de Bratislava na Eslováquia foram afetados.
+Aviões não foram autorizados a pousar no Aeroporto de Zurique.
+A Wizz Air culpou o incidente por seus serviços online estarem offline.
+A companhia aérea holandesa KLM suspendeu a maioria das operações, anunciando que o manuseio de voos é impossível com o problema.
+O Aeroporto de Berlim-Brandemburgo planejou parar os voos até às 8 (UTC).
+Em Bruxelas, os funcionários do Aeroporto de Charleroi verificaram manualmente os passageiros, mas outros softwares aliviaram os problemas até às 10:00 e houve atrasos mínimos.
+Aeroportos espanhóis foram interrompidos.
+
+O Aeroporto Internacional de Hong Kong experimentou atrasos durante o check-in, principalmente para passageiros da companhia aérea local de baixo custo Hong Kong Express, recorrendo a funcionários usando sinais manuscritos para direcionar os passageiros a diferentes balcões de check-in.
+A Autoridade Aeroportuária de Hong Kong ativou a resposta de emergência, após a falha dos sites das companhias aéreas e do check-in automático.
+As companhias aéreas locais Cathay Pacific, Hong Kong Express e Hong Kong Airlines tiveram sistemas de reserva indisponíveis.
+
+A companhia aérea coreana Jeju Air e Spring Japan estão enfrentando problemas.
+A Jetstar Japan teve que cancelar vários voos.
+Alguns dos quiosques de autoatendimento no Aeroporto Changi de Singapura foram afetados, atrasando e forçando as companhias aéreas a mudar para o check-in manual.
+Voos da Cebu Pacific e da Philippines AirAsia estão atrasados.
+Longas filas se formaram no Aeroporto Internacional Ninoy Aquino.
+
+África
+
+Os bancos na África do Sul, incluindo o Capitec Bank, estavam enfrentando problemas.
+A Tunísia foi poupada da pane global, apesar de perturbações temporárias nos aeroportos.
+
+China
+
+Algumas empresas permitiram que seus funcionários saíssem mais cedo.
+O termo "Thank you Microsoft for an early vacation" momentaneamente se tornou o mais popular no Weibo.
+
+Índia
+
+Interrupções foram experimentadas pela Air India, Indigo Airlines, Akasa Air, SpiceJet e Vistara.
+Passes de embarque manuscritos foram emitidos durante a interrupção.
+O Ministério da Aviação Civil ordenou que as companhias aéreas e os aeroportos fossem compassivos ao fornecer alimentos e assentos, se necessário.
+
+A partir das 18:14 (IST), mais de 200 voos foram cancelados, com a IndiGo sozinha cancelando 192 voos.
+
+Grandes empresas de TI na Índia, como TCS, Infosys, Oracle, Nokia e muitas outras, também enfrentaram a interrupção, resultando em milhares de problemas relatados por funcionários e dispositivos presos em bootloop, sem conseguir se recuperar.
+
+O Indian Computer Emergency Response Team, CERT-In, emitiu uma classificação de severidade crítica para o incidente.
+
+A Maruti Suzuki, uma fabricante de automóveis na Índia, relatou que sua produção foi interrompida e imediatamente adotou medidas de precaução e remediação.
+A empresa também informou que o problema foi resolvido.
+
+No entanto, a NSE e a BSE disseram que não foram impactadas pela pane global dos sistemas da Microsoft, apesar dos relatos de interrupções.
+Por outro lado, o Ministro das Ferrovias, Informação e Transmissão, Eletrônicos e Tecnologia da Informação da Índia, Ashwini Vaishnaw, afirmou que o governo estava em contato com a Microsoft e que a causa da interrupção foi identificada.
+O RBI (Banco da Reserva da Índia) disse em um comunicado que apenas alguns bancos usam ferramentas da CrowdStrike e que muitos sistemas críticos da maioria dos bancos não operam na nuvem, portanto, não foram afetados.
+O State Bank of India, o maior banco da Índia, relatou que nenhum de seus serviços foi afetado pela interrupção.
+De acordo com a avaliação do RBI, apenas 10 bancos e NBFCs tiveram interrupções menores que já foram resolvidas ou estão sendo resolvidas.
+A instituição também afirmou que os sistemas bancários indianos são isolados contra tais interrupções e relataram apenas pequenas interrupções.
+
+Israel
+
+Em Israel, o Magen David Adom e sua linha de serviços de emergência, assim como vários hospitais públicos como o Sheba, Laniado e o Rambam, foram afetados.
+Outras organizações afetadas incluem a Israel Post e vários bancos locais.
+Muitas empresas farmacêuticas também foram impactadas.
+
+Japão
+
+Universal Studios Japan anunciou que não venderia ingressos nas bilheterias durante o fim de semana devido à interrupção; no entanto, os ingressos ainda seriam vendidos online ou através de sites de venda de ingressos designados.
+
+Filipinas
+
+Trabalhadores de TI, grandes bancos, telecomunicações, transmissões de rádio e TV foram afetados.
+Supermercados foram afetados devido à falha nos sistemas de ponto de venda.
+
+Bancos nas Filipinas, como RCBC, Metrobank, LandBank, BDO, UnionBank, BPI e PNB, tiveram seus sistemas online fora do ar devido à interrupção.
+E-wallets como Maya e GCash também relataram problemas.
+
+Sites do governo nas Filipinas, como o site da Câmara dos Representantes das Filipinas, ficaram fora do ar devido à interrupção.
+
+Turquia
+
+A Turkish Airlines cancelou alguns de seus voos para evitar interrupções.
+O site e o aplicativo de banco móvel do DenizBank não estavam acessíveis.
+
+Outros
+
+O operador ferroviário da Malásia, KTMB, confirmou que seu sistema de bilhética KITS estava enfrentando problemas técnicos.
+
+Numerosas empresas de Singapura, incluindo Singapore Airlines, Scoot, Singapore Post, Singapore Exchange (SGX), SPH Media, Singtel, M1, Grab e DBS Bank, relataram vários níveis de dificuldades de serviço ao longo do dia 19 de julho.
+
+As cancelas de entrada e saída de estacionamentos em Singapura foram afetadas em 185 locais geridos pelo Housing and Development Board (HDB).
+
+Europa
+
+Bélgica
+
+Na Bélgica, o problema afetou a compra de bilhetes de trem e anúncios digitais nas estações da Companhia Nacional de Ferrovias da Bélgica, os laptops de escritório da DPG Media Bélgica – o que impacta as rádios JOE e QMusic, bancos, serviços postais, agências governamentais, comunicação telefônica com os serviços urbanos em Antuérpia.
+
+Um porta-voz da Companhia Nacional de Ferrovias da Bélgica disse que não há impacto no tráfego real dos trens, mas sim em todas as aplicações digitais.
+Eles anteriormente aconselharam os passageiros a ouvirem os anúncios de áudio nas várias estações de trem, e, se não puderem comprar um bilhete, a entrarem em contato com o condutor do trem.
+
+O Centro de Cibersegurança da Bélgica declarou que o impacto na Bélgica é limitado.
+
+A SPF Saúde Pública confirmou que dois hospitais foram impactados e ativaram seus planos de emergência de TI.
+Eles também afirmaram que não há impacto no atendimento, apenas nas novas admissões de pacientes.
+
+O Centro Nacional de Crise estava avaliando o impacto na Bélgica e afirmou que não havia relatos de problemas significativos nos setores de segurança e em nossa infraestrutura crítica (por exemplo, usinas de energia ou setor de transporte).
+Eles também foram informados sobre o problema que afetou dois hospitais na Bélgica.
+
+França
+
+Vários canais de TV franceses afetados pelos problemas incluem TF1, TFX, LCI e as redes do Canal+ Group.
+O fornecedor de serviços telefônicos e de internet Bouygues Telecom também anunciou a indisponibilidade de seu serviço ao cliente como resultado da interrupção.
+O Aeroporto Charles de Gaulle e o Aeroporto de Orly também enfrentaram problemas relacionados ao check-in e suspensão de voos.
+
+As operações dos Jogos Olímpicos de Verão de 2024, que estão programadas para começar oficialmente em uma semana em Paris, França, também foram afetadas.
+O incidente ocorreu um dia após a abertura da Vila Olímpica, e os organizadores estavam processando a chegada de atletas e delegados.
+O comitê organizador disse que um plano de contingência foi ativado e que apenas a entrega de uniformes e credenciais foi impactada.
+No entanto, o incidente está retardando as operações, com a mesa de credenciamento no centro de imprensa fechada e verificações de segurança feitas manualmente usando uma lista de nomes.
+
+Alemanha
+
+Dois hospitais em Lübeck e Kiel cancelaram operações não emergenciais.
+A cadeia de supermercados Tegut fechou algumas de suas lojas.
+O Aeroporto de Berlim Brandemburgo anunciou que desde cerca de 7h00 (UTC+2), os processos operacionais foram afetados por "problemas de TI em um fornecedor externo".
+Enquanto o manuseio de passageiros continuou com algumas restrições, houve atrasos e alguns voos tiveram que ser cancelados pelas companhias aéreas.
+
+Irlanda
+
+The Irish Times relatou que várias empresas irlandesas foram impactadas, incluindo Ryanair.
+A Transport for Ireland disse que seus aplicativos estavam fora do ar devido à interrupção.
+Clubes da GAA relataram que não conseguiram acessar ingressos para o All Ireland.
+
+Ilha de Man
+
+A Manx Radio relatou que os consultórios de médicos foram impactados e que a interrupção de voos, especialmente para e do Reino Unido, era antecipada, mas atualmente mínima.
+Negócios foram relatados como "principalmente não afetados".
+
+Países Baixos
+
+Negócios operando nos Países Baixos que estão enfrentando problemas incluem o Aeroporto Schiphol, o Porto de Roterdã, e a emissora pública NPO.
+
+Espanha
+
+ENAIRE, responsável pela gestão nacional do controle de tráfego aéreo, também fez referência a uma falha de TI em seu site e redes sociais.
+Todos os aeroportos espanhóis relataram interrupções e os governos regionais de Aragão, País Basco, Castela-Mancha, Catalunha e Galícia relataram problemas com seus serviços de saúde.
+
+Reino Unido
+
+Sky News não conseguiu transmitir ao vivo, assim como o CBBC, canal de televisão infantil da BBC que é de acesso livre.
+Vários aeroportos enfrentaram dificuldades, incluindo o Edimburgo, cujos painéis de partida congelaram, e o Aeroporto de Gatwick, onde a leitura de códigos de barras automáticos parou de funcionar e teve que ser feita manualmente.
+As empresas ferroviárias também foram afetadas.
+O Serviço Nacional de Saúde (NHS) afirmou que os problemas estão "causando interrupções na maioria das clínicas de GP inglesas", com alguns de seus serviços, como clínicas de GP, que dependem de um software chamado EMIS Web, incapazes de visualizar e gerenciar registros médicos, emitir e gerenciar prescrições ou fazer agendamentos.
+A Bolsa de Valores de Londres, embora operando normalmente, não conseguiu atualizar as notícias em seu site.
+
+A empresa de apostas Ladbrokes Coral e a rede de supermercados Morrisons também relataram problemas.
+A Amadeus, que gerencia a bagagem no Heathrow, afirmou que foi afetada pela falha de TI.
+
+Os táxis em Londres também foram afetados, pois os clientes não conseguiam pagar com cartões de crédito ou débito e precisavam pagar em dinheiro.
+
+Fontes de notícias no Reino Unido relataram que o comitê COBR do governo se reuniu para discutir o incidente.
+
+Outros
+
+O Sistema Central de Informações de Saúde da Croácia na Croácia foi afetado, embora tenha sido esclarecido que se tratava de um problema separado ligado à mudança de seus servidores para um novo local assim como o Controle de Tráfego Aéreo Croata.
+O Hospital Professor Doutor Fernando Fonseca em Portugal registrou problemas.
+O porta-voz da Autoridade Nacional de Segurança confirmou que várias instituições na Eslováquia foram afetadas.
+A empresa farmacêutica Krka na Eslovênia teria sofrido uma queda total de produção e enviado seus funcionários para casa.
+Na Suécia, o tráfego aéreo foi interrompido, os ingressos para jogos de futebol e transporte público não puderam ser vendidos e a mina Malmberget foi evacuada como precaução.
+Vodafone, Nova Poshta e Sense Bank na Ucrânia sofreram falhas devido à atualização.
+Cadeias de farmácias norueguesas Apotek1 tiveram que fechar suas lojas por algum tempo.
+
+Mercedes AMG PETRONAS F1 Team também enfrentou problemas na sexta-feira do Grande Prêmio da Hungria, com um porta-voz da Mercedes confirmando que a equipe teve que resolver o problema manualmente em cada computador que usava.
+A falha também afetou seus clientes de motores, McLaren, Aston Martin e Williams.
+
+Canadá
+
+O Montreal-Trudeau International Airport e o Toronto Pearson International Airport foram afetados.
+O Vancouver International Airport também foi afetado, embora não estivesse claro se isso estava diretamente relacionado às interrupções globais.
+A Canadian Broadcasting Corporation também foi impactada.
+
+Estados Unidos
+
+Houve interrupções nos serviços de 911 ou problemas nas operações dos centros de atendimento de 911 em algumas partes do Alasca, Arizona, Flórida, Indiana, Kansas, Michigan, Minnesota, Nova York, Ohio, e Pensilvânia.
+O 911 estava fora de serviço em todo o estado de New Hampshire.
+Além disso, o Alasca está enfrentando problemas com centros de chamadas não emergenciais.
+
+As ações da Microsoft e da CrowdStrike caíram como resultado da interrupção.
+As ações da CrowdStrike caíram quase 12 por cento no pré-mercado na manhã de sexta-feira.
+
+Muitos hospitais nos Estados Unidos pausaram cirurgias não urgentes.
+Embora permanecessem abertos, os hospitais tinham acesso limitado, se é que tinham, aos registros dos pacientes.
+
+O serviço de Sim racing IRacing também foi afetado pela interrupção.
+
+Brasil
+
+Vários aplicativos de bancos, assim como caixas eletrônicos em agências presenciais, aeroportos e sistemas de operadoras de telefonia celular apresentaram picos de lentidão e problemas em seus serviços durante a madrugada e nas primeiras horas do dia.
+Além disso, parte dos sistemas ligados ao Supremo Tribunal Federal (STF) também foram afetados pela falha.
+
+A Record foi uma das emissoras de televisão afetadas pelo problema, chegando a não conseguir acesso ao sistema de transmissões (switcher), com o problema sendo percebido durante toda a programação matinal, principalmente no telejornal Fala Brasil, que foi ao ar totalmente ao vivo, mas com falhas na geração de caracteres, causando também a falta de conexão com as emissoras afiliadas e filiais para exibição de links nas ruas e a transmissão de reportagens gravadas, afetando também o Hoje em Dia.
+
+Austrália
+
+Empresas e agências governamentais australianas foram grandemente impactadas pelas interrupções, incluindo empresas de mídia, companhias aéreas, aeroportos, supermercados, hospitais, universidades, escritórios de advocacia, farmácias, cassinos, redes de trem, postos de gasolina, estádios e bancos.
+Empresas de mídia australianas afetadas pelos problemas incluem a ABC, SBS, Seven Network e Nine Network.
+
+As companhias aéreas afetadas incluem Qantas, Virgin Australia e Jetstar.
+Um porta-voz do Sydney Airport disse que a interrupção afetou algumas operações de companhias aéreas e que o aeroporto pode enfrentar alguns atrasos ao longo da noite.
+Em seu boletim de notícias, a Nine Network informou que o toque de recolher do Sydney Airport significava que não haveria tempo suficiente para eliminar o atraso antes das 23h e que pode levar vários dias para resolver o atraso.
+O Melbourne Airport também foi afetado, com declarações no site destacando o "problema tecnológico global" como impactante nos procedimentos de check-in, e aconselhando os passageiros a consultarem as companhias aéreas relevantes.
+Canberra Airport, Darwin Airport, Adelaide Airport, Perth Airport, Hobart Airport, Launceston Airport e Brisbane Airport também foram afetados.
+
+Varejistas e redes de fast food também foram afetados pela interrupção, fazendo com que os sistemas de autoatendimento e pedidos online ficassem fora de serviço.
+Postos de gasolina também foram afetados, com pessoas presas nas bombas de combustível sem poder pagar pela gasolina porque os sistemas de pagamento não estavam funcionando.
+
+Supermercados afetados incluem Woolworths e Coles, com a maioria das lojas sendo forçadas a encerrar as atividades do dia.
+Aplicativos bancários ficaram fora do ar, afetando bancos como NAB, Westpac, ANZ, Commonwealth Bank, Bendigo Bank e Suncorp.
+A operadora de trens de carga Aurizon foi afetada.
+Trens regionais em NSW nas linhas Hunter Line e Southern Highlands Line foram cancelados ou atrasados, com a rede de ônibus e trens regionais em Victoria, operada pela V/Line, tendo todas as linhas suspensas.
+Sistemas em alguns hospitais da Ramsay Health Care e da Uniting Care foram afetados, incluindo o Wesley Hospital e o St Andrews Hospital em Brisbane.
+O Sunshine Coast Council foi um dos vários conselhos afetados.
+A bilheteria no Docklands Stadium para a partida da Australian Football League de sexta-feira à noite entre o Essendon Bombers e o Adelaide Crows foi afetada.
+
+Os vitorianos foram aconselhados a ligar para 000 se um alarme de incêndio soar ou fumaça for detectada, pois alguns alarmes automáticos em prédios podem não chamar automaticamente os serviços de incêndio devido à interrupção.
+
+O governo australiano realizou uma reunião de emergência nacional para lidar com a interrupção.
+Foi declarado que o Mecanismo Nacional de Coordenação foi ativado, com o Primeiro-Ministro Anthony Albanese dizendo "Entendo que os australianos estão preocupados com a interrupção que está se desenrolando globalmente e afetando uma ampla gama de serviços.
+Meu governo está trabalhando em estreita colaboração com o Coordenador Nacional de Segurança Cibernética".
+Ele disse posteriormente:
+"Não há impacto na infraestrutura crítica, serviços governamentais ou serviços Triple-0 até o momento.
+O Mecanismo Nacional de Coordenação foi ativado e está se reunindo agora".
+
+Nova Zelândia
+
+Empresas operando na Nova Zelândia enfrentando problemas incluem os bancos ANZ, ASB, Kiwibank e Westpac, os supermercados Woolworths e o cartão de transporte HOP da Auckland Transport.
+O Christchurch Airport também está tendo problemas, assim como o Parlamento.
+Clientes também enfrentaram problemas de pagamento nos supermercados Foodstuffs.

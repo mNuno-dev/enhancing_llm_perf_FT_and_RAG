@@ -1,0 +1,74 @@
+#####
+#####
+(Step 1) -  Install rust and it's compiler
+    $ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+#####
+#####
+
+information:
+(.venv) nmarques@Mac weaviate_database % curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+info: downloading installer
+
+Welcome to Rust!
+
+This will download and install the official compiler for the Rust
+programming language, and its package manager, Cargo.
+
+Rustup metadata and toolchains will be installed into the Rustup
+home directory, located at:
+
+  /Users/nmarques/.rustup
+
+This can be modified with the RUSTUP_HOME environment variable.
+
+The Cargo home directory is located at:
+
+  /Users/nmarques/.cargo
+
+This can be modified with the CARGO_HOME environment variable.
+
+The cargo, rustc, rustup and other commands will be added to
+Cargo's bin directory, located at:
+
+  /Users/nmarques/.cargo/bin
+
+This path will then be added to your PATH environment variable by
+modifying the profile files located at:
+
+  /Users/nmarques/.profile
+  /Users/nmarques/.bash_profile
+  /Users/nmarques/.zshenv
+
+You can uninstall at any time with rustup self uninstall and
+these changes will be reverted.
+
+#####
+#####
+(Step 3): Clone the TEI repe from github
+#####
+#####
+    $ git clone https://github.com/huggingface/text-embeddings-inference.git
+    $ cd text-embeddings-inference
+
+    $ ls router/Cargo.toml (Sanity Check)
+
+#####
+#####
+(Step 2): Install with Metal support
+#####
+#####
+    $ cargo install --path router -F metal
+
+(NOTE): This step is only needed if I want to specifically change TEI, in other case Pypi package already
+knows how to handle the binaries for a local instance of TEI with metal
+
+
+#####
+#####
+(Step 3): Launch Text Embeddings Inference
+#####
+#####
+
+Once the installation is successfully complete, you can launch Text Embeddings Inference with Metal with the following command:
+    $ model=Qwen/Qwen3-Embedding-0.6B
+    text-embeddings-router --model-id $model --port 8080

@@ -1,0 +1,9 @@
+model_name,chunking_strat,top_k,MRR_score
+BAAI/bge-m3,Dpcembbaaibgem3.jsonl_results_MRR@3,3,0.6158429723098492
+BAAI/bge-m3,FixedSOverlapbaaibgem3.jsonl_results_MRR@3,3,0.6524710830704522
+BAAI/bge-m3,FixedSizebaaibgem3.jsonl_results_MRR@3,3,0.5951629863301787
+BAAI/bge-m3,Lxsentencesplitbaaibgem3.jsonl_results_MRR@3,3,0.4071153172099545
+PORTULAN/serafim-100m-portuguese-pt-sentence-encoder-ir,FixedSOverlapportulanserafim100mportugueseptsentenceencoderir.jsonl_results_MRR@3,3,0.5855240098142307
+PORTULAN/serafim-100m-portuguese-pt-sentence-encoder-ir,Lxsentencesplitportulanserafim100mportugueseptsentenceencoderir.jsonl_results_MRR@3,3,0.3413950227830354
+PORTULAN/serafim-100m-portuguese-pt-sentence-encoder-ir,Dpcembportulanserafim100mportugueseptsentenceencoderir.jsonl_results_MRR@3,3,0.5452155625657203
+PORTULAN/serafim-100m-portuguese-pt-sentence-encoder-ir,FixedSizeportulanserafim100mportugueseptsentenceencoderir.jsonl_results_MRR@3,3,0.5231335436382755
