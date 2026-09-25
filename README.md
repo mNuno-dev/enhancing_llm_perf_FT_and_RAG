@@ -32,6 +32,6 @@ HuggingFace as `nunoFcul/PTwikiRAG`.
 - API keys and tokens are not included. Set `OPENAI_API_KEY`, `GROQ_API_KEY`,
   and `HF_TOKEN` as environment variables before running evaluation scripts.
 - Each component was developed and run independently on separate servers, selected
-  based on hardware requirements (HPC cluster for fine-tuning, GPU VMs for retrieval
+  based on hardware requirements (HPC cluster and A100 GPU enabled GCP cloud VMs for fine-tuning, GPU VMs for retrieval
   and evaluation). Some components ran in parallel to make efficient use of compute
-  resources and running costs.
+  resources and running costs.  
