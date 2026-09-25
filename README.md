@@ -11,7 +11,7 @@ Retrieval-Augmented Generation (RAG) across three model scales (1B, 3B, 8B).
 |--------|-------------|------------------|
 | [`fine_tuning/`](fine_tuning/) | `gervasio` Python package for LoRA + FSDP fine-tuning of Llama 3 models. Includes training configs and SLURM scripts used on the HPC cluster. | `peft`, `transformers`, `accelerate`, `torch` |
 | [`retrieval_engine/`](retrieval_engine/) | RAG retrieval pipeline: chunking strategies (DPC, LumberChunker, sentence-level), embedding model evaluation, hybrid BM25+dense retrieval, and Weaviate-based indexing. | `weaviate-client`, `sentence-transformers` |
-| [`rag_evaluation/`](rag_evaluation/) | End-to-end RAG evaluation using a customised RAGAS framework with European-Portuguese prompts and an Answer Accuracy metric. Includes evaluation scripts, preprocessing utilities, and custom Portuguese metrics. | `ragas`, `google-generativeai` |
+| [`rag_evaluation/`](rag_evaluation/) | End-to-end RAG evaluation using a customised [RAGAS framework](https://github.com/vibrantlabsai/ragas) with European-Portuguese prompts and an Answer Accuracy metric. Includes evaluation scripts, preprocessing utilities, and custom Portuguese metrics. | `ragas`, `google-generativeai` |
 | [`evaluation_harness/`](evaluation_harness/) | Custom additions on top of [EleutherAI's lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness): evaluation shell scripts and Portuguese NLP benchmark task definitions. | `lm-eval` |
 
 ## Models
