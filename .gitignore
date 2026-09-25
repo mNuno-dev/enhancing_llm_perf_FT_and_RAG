@@ -38,9 +38,9 @@ models/
 .vscode/
 .cursor/
 
-# Fine-tuning package source — permission pending
-# The gervasio package (fine_tuning/src/) and its tests (fine_tuning/tests/)
-# were developed primarily by a colleague at the NLX research group.
-# Excluded until redistribution permission is confirmed.
+# Fine-tuning package — remains within the NLX research group
 fine_tuning/src/
 fine_tuning/tests/
+fine_tuning/example-gen-config.toml
+fine_tuning/example-train-config.toml
+fine_tuning/pyproject.toml
