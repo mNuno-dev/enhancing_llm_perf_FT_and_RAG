@@ -20,8 +20,8 @@ pip install lm-eval
   Paths in these scripts are VM-specific; adapt the `model_paths` variable to
   point to your local model directories before running.
 - `task_configurations/` — the European-Portuguese task configurations used in
-  the thesis were loaded from this directory. The configurations cannot be
-  redistributed publicly (developed by the NLX research group); see
+  the thesis were loaded from this directory. The configurations were developed
+  by the NLX research group and remain within the research group; see
   `task_configurations/README.md` for details.
 
 ## Running

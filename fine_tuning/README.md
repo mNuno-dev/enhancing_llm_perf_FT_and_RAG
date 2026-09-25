@@ -1,5 +1,7 @@
 # Gervasio
 
+> **Note:** The `gervasio` package source code (`src/` and `tests/`) is excluded from this repository. It was developed primarily by Luís M. S. Gomes at the [NLX research group](https://nlx.di.fc.ul.pt/) and remains within the research group. The training configurations (`train_configs/`) and SLURM scripts (`scripts/`) used in the thesis are included here as a full record of the experimental setup.
+
 Gervasio is a Python package for advanced model training and evaluation tooling, designed for efficient fine-tuning of large language models. It provides comprehensive infrastructure for LoRA (Low-Rank Adaptation) and FSDP (Fully Sharded Data Parallel) training, along with custom checkpoint management and model utilities.
 
 ## Key Features

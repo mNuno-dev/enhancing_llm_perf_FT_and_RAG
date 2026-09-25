@@ -7,8 +7,7 @@ framework via the `--include_path` argument.
 
 These configurations were developed by the
 [NLX research group](https://nlx.di.fc.ul.pt/) at Faculdade de Ciências,
-Universidade de Lisboa, and cannot be redistributed publicly. They are
-available for thesis examination purposes upon private request.
+Universidade de Lisboa, and remain within the research group.
 
 ## Running Your Own Model on the Same Benchmarks
 
